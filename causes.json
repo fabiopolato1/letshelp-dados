@@ -1,0 +1,127 @@
+{
+  "updated": "2026-11-03",
+  "causes": [
+    {
+      "id": "voz-animal-emergencia",
+      "title": "Vakinha de Emergência do Santuário Voz Animal",
+      "organizer": "Santuário Voz Animal",
+      "location": "RS",
+      "category": "animais",
+      "tags": [
+        "animais",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vakinha-de-emergencia-do-santuario-voz-animal",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/1945739/FOTO_VAKINHA_2021.jpg?ims=1200x630",
+      "description": "Santuário com mais de 300 animais pede ajuda para vacinas, reparo de cercas e abrigos depois de um recorde de abandonos.",
+      "raised": 15234.05,
+      "goal": 39000,
+      "recurring": false,
+      "supporters": 185,
+      "featured": true
+    },
+    {
+      "id": "rafa-voltar-a-andar",
+      "title": "Para fazer a Rafa voltar a andar",
+      "organizer": "Rafaela Coelho Dyna",
+      "location": "SP",
+      "category": "saude",
+      "tags": [
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/6204316",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6204316/1783650379.996.jpg?ims=1200x630",
+      "description": "Tratamento de reabilitação em São Paulo para a Rafaela recuperar os movimentos depois de uma infecção na medula.",
+      "raised": 13522.9,
+      "goal": 300000,
+      "recurring": false,
+      "supporters": 100,
+      "featured": true
+    },
+    {
+      "id": "cozinha-do-bem",
+      "title": "Cozinha do Bem",
+      "organizer": "Cozinha do Bem",
+      "location": "",
+      "category": "fome",
+      "tags": [
+        "fome",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/cozinha-do-bem",
+      "image": "https://static.vakinha.com.br/uploads/asset/image/1575975/e60c6ddd44c4.jpg",
+      "description": "O grupo prepara refeições para quem passa fome e precisa construir a própria cozinha depois de perder a sede alugada.",
+      "raised": 245,
+      "goal": 30000,
+      "recurring": false,
+      "supporters": 6,
+      "featured": true
+    },
+    {
+      "id": "instituto-tear",
+      "title": "Instituto de Arte Tear",
+      "organizer": "Instituto de Arte Tear",
+      "location": "Rio de Janeiro, RJ",
+      "category": "arte",
+      "tags": [
+        "arte",
+        "educacao",
+        "criancas",
+        "comunidades"
+      ],
+      "platform": "Benfeitoria",
+      "url": "https://benfeitoria.com/projeto/institutotear",
+      "image": "https://usersfiles.nyc3.digitaloceanspaces.com/prod/projects_images/12419/D3tDV0jQRVDzxGbM51nJYBRtPAu4eHOsLctVDetF.png",
+      "description": "Apoio mensal que mantém oficinas gratuitas de arte e educação para crianças e jovens da periferia.",
+      "raised": 870,
+      "goal": 10000,
+      "recurring": true,
+      "supporters": 15,
+      "featured": true
+    },
+    {
+      "id": "projeto-17",
+      "title": "Uma nova casa para o Projeto 17+",
+      "organizer": "Projeto 17+",
+      "location": "Praia Grande, SP",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "educacao"
+      ],
+      "platform": "Kickante",
+      "url": "https://www.kickante.com.br/vaquinha-online/uma-nova-casa-para-o-projeto-17",
+      "image": "https://img.kickante.com.br/1f57810c-d7ff-483b-8166-1687f78338b0/0dc4a2ea80-whatsapp-image-2026-05-07-at-14-23-22-4.jpeg?d=400x400",
+      "description": "Reforma do espaço onde jovens e adultos neurodivergentes têm aulas, que hoje acontecem na garagem da diretora.",
+      "raised": 300,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 3,
+      "featured": true
+    },
+    {
+      "id": "alem-do-cancer-2026",
+      "title": "Vakinha Além do Câncer 2026",
+      "organizer": "Instituto Vakinha",
+      "location": "",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "criancas",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vakinha-alem-do-cancer-2026",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6269786/1786734283.973.jpg?ims=1200x630",
+      "description": "Transporte, hospedagem e alimentação para famílias de crianças em tratamento contra o câncer, com repasse à Casa Ronald McDonald.",
+      "raised": 55.01,
+      "goal": 400000,
+      "recurring": false,
+      "supporters": 4,
+      "featured": true
+    }
+  ]
+}
