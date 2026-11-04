@@ -952,27 +952,25 @@
       "pix": "6416408@vakinha.com.br"
     },
     {
-      "id": "instituto-tear",
-      "title": "Instituto de Arte Tear",
-      "organizer": "Instituto de Arte Tear",
-      "location": "Rio de Janeiro, RJ",
+      "id": "ajudar-seu-tatuador-ir-pra-veneza",
+      "title": "Um tatuador de Bebedouro rumo a Veneza",
+      "organizer": "Olavo Tattoo",
+      "location": "Bebedouro, SP",
       "category": "arte",
       "tags": [
         "arte",
-        "educacao",
-        "criancas",
-        "comunidades"
+        "sonhos"
       ],
-      "platform": "Benfeitoria",
-      "url": "https://benfeitoria.com/projeto/institutotear",
-      "image": "https://usersfiles.nyc3.digitaloceanspaces.com/prod/projects_images/12419/D3tDV0jQRVDzxGbM51nJYBRtPAu4eHOsLctVDetF.png",
-      "description": "Apoio mensal que mantém oficinas gratuitas de arte e educação para crianças e jovens da periferia.",
-      "raised": 870,
-      "goal": 10000,
-      "recurring": true,
-      "supporters": 15,
-      "featured": false,
-      "pix": ""
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6430548/1793651881.488.jpg",
+      "description": "O Olavo foi convidado para um grande evento de tatuagem em Veneza. A vaquinha cobre passagem e hospedagem para ele levar sua arte para fora do país.",
+      "raised": 1436,
+      "goal": 15000,
+      "supporters": 11,
+      "pix": "6430548@vakinha.com.br",
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajudar-seu-tatuador-ir-pra-veneza",
+      "recurring": false,
+      "featured": false
     },
     {
       "id": "guincho-da-rose",
@@ -1038,25 +1036,25 @@
       "pix": "6400791@vakinha.com.br"
     },
     {
-      "id": "projeto-17",
-      "title": "Uma nova casa para o Projeto 17+",
-      "organizer": "Projeto 17+",
-      "location": "Praia Grande, SP",
+      "id": "vaquinha-para-cadeira-de-rodas-star-lite-premium-do-sidney",
+      "title": "Uma cadeira de rodas nova para o Sidney",
+      "organizer": "Sidney",
+      "location": "Nova Iguaçu, RJ",
       "category": "inclusao",
       "tags": [
         "inclusao",
-        "educacao"
+        "saude"
       ],
-      "platform": "Kickante",
-      "url": "https://www.kickante.com.br/vaquinha-online/uma-nova-casa-para-o-projeto-17",
-      "image": "https://img.kickante.com.br/1f57810c-d7ff-483b-8166-1687f78338b0/0dc4a2ea80-whatsapp-image-2026-05-07-at-14-23-22-4.jpeg?d=400x400",
-      "description": "Reforma do espaço onde jovens e adultos neurodivergentes têm aulas, que hoje acontecem na garagem da diretora.",
-      "raised": 300,
-      "goal": 15000,
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422710/1793364504.256.jpg",
+      "description": "O Sidney tem paralisia cerebral e trabalha com a cadeira de rodas, que foi arrastada por um ônibus. Ele precisa de uma nova para seguir com sua independência.",
+      "raised": 560,
+      "goal": 8000,
+      "supporters": 10,
+      "pix": "6422710@vakinha.com.br",
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vaquinha-para-cadeira-de-rodas-star-lite-premium-do-sidney",
       "recurring": false,
-      "supporters": 3,
-      "featured": false,
-      "pix": ""
+      "featured": false
     },
     {
       "id": "ajude-a-recuperar-o-espaco-de-quem-mais-precisa",
@@ -1123,26 +1121,25 @@
       "pix": "6433959@vakinha.com.br"
     },
     {
-      "id": "favela-da-paz",
-      "title": "Instituto Favela da Paz",
-      "organizer": "Instituto Favela da Paz",
-      "location": "São Paulo, SP",
+      "id": "arrecadacao-de-agua-de-coco",
+      "title": "Água de coco para os pacientes da Santa Casa",
+      "organizer": "Dyego Santos",
+      "location": "Sorocaba, SP",
       "category": "comunidades",
       "tags": [
         "comunidades",
-        "arte",
-        "criancas"
+        "saude"
       ],
-      "platform": "Benfeitoria",
-      "url": "https://benfeitoria.com/projeto/faveladapaz",
-      "image": "https://usersfiles.nyc3.digitaloceanspaces.com/prod/projects_images/8452/cover_20180405130024.jpg",
-      "description": "No Jardim Nakamura, o instituto incuba projetos de arte, cultura e sustentabilidade feitos pela própria comunidade.",
-      "raised": 270,
-      "goal": 8000,
-      "recurring": true,
-      "supporters": 6,
-      "featured": false,
-      "pix": ""
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6404684/1792673553.953.jpg",
+      "description": "Uma corrente do bem para comprar água de coco e doar à Santa Casa de Sorocaba, ajudando na hidratação dos pacientes atendidos.",
+      "raised": 181,
+      "goal": 1000,
+      "supporters": 9,
+      "pix": "6404684@vakinha.com.br",
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/arrecadacao-de-agua-de-coco",
+      "recurring": false,
+      "featured": false
     },
     {
       "id": "ajuda-para-reconstruir-a-casa-de-deusiane-e-fabi",
