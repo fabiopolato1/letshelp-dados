@@ -18,7 +18,8 @@
       "goal": 300000,
       "recurring": false,
       "supporters": 736,
-      "featured": true
+      "featured": true,
+      "pix": "5362528@vakinha.com.br"
     },
     {
       "id": "missao-reconstruir-a-casinha-dos-felvs",
@@ -37,7 +38,8 @@
       "goal": 60000,
       "recurring": false,
       "supporters": 296,
-      "featured": true
+      "featured": true,
+      "pix": "6189391@vakinha.com.br"
     },
     {
       "id": "start-projeto-social-rango-resistencia",
@@ -57,7 +59,8 @@
       "goal": 5000,
       "recurring": false,
       "supporters": 11,
-      "featured": true
+      "featured": true,
+      "pix": "6360871@vakinha.com.br"
     },
     {
       "id": "salve-o-dudu-eduardo-lorensi-da-silva",
@@ -78,7 +81,8 @@
       "goal": 17000000,
       "recurring": false,
       "supporters": 5953,
-      "featured": true
+      "featured": true,
+      "pix": "dudu@vakinha.com.br"
     },
     {
       "id": "tratamento-do-cancer-medicamentos-para-valderes",
@@ -98,7 +102,8 @@
       "goal": 180000,
       "recurring": false,
       "supporters": 432,
-      "featured": true
+      "featured": true,
+      "pix": "6405641@vakinha.com.br"
     },
     {
       "id": "maracai-precisa-recomecar-ajude-a-reconstruir-35",
@@ -118,7 +123,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 30,
-      "featured": true
+      "featured": true,
+      "pix": "6432112@vakinha.com.br"
     },
     {
       "id": "ajude-o-conecta-se-manter-vivo",
@@ -137,7 +143,8 @@
       "goal": 2500,
       "recurring": false,
       "supporters": 93,
-      "featured": true
+      "featured": true,
+      "pix": "6409025@vakinha.com.br"
     },
     {
       "id": "osp-uma-harpa-para-chamar-de-nossa",
@@ -156,7 +163,8 @@
       "goal": 60000,
       "recurring": false,
       "supporters": 40,
-      "featured": true
+      "featured": true,
+      "pix": "6401635@vakinha.com.br"
     },
     {
       "id": "o-despertar-da-gargalhada-circo-atipico",
@@ -177,7 +185,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 17,
-      "featured": true
+      "featured": true,
+      "pix": "6393833@vakinha.com.br"
     },
     {
       "id": "fonte-de-luz-ajude-a-manter-essa-historia-viva",
@@ -196,7 +205,8 @@
       "goal": 30500,
       "recurring": false,
       "supporters": 47,
-      "featured": true
+      "featured": true,
+      "pix": "6422689@vakinha.com.br"
     },
     {
       "id": "ajude-a-familia-do-godoy-a-recontruir-a-casa-apo",
@@ -216,7 +226,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 219,
-      "featured": true
+      "featured": true,
+      "pix": "6424882@vakinha.com.br"
     },
     {
       "id": "educacao-sobre-oceanos-na-canoa-icoa",
@@ -236,7 +247,8 @@
       "goal": 30000,
       "recurring": false,
       "supporters": 53,
-      "featured": true
+      "featured": true,
+      "pix": "6417143@vakinha.com.br"
     },
     {
       "id": "ajuda-para-comprar-as-barreiras-de-vladimir",
@@ -255,7 +267,8 @@
       "goal": 4000,
       "recurring": false,
       "supporters": 19,
-      "featured": true
+      "featured": true,
+      "pix": "6406104@vakinha.com.br"
     },
     {
       "id": "sonorizacao-no-horizonte-azul",
@@ -275,7 +288,8 @@
       "goal": 25000,
       "recurring": false,
       "supporters": 36,
-      "featured": true
+      "featured": true,
+      "pix": "6263094@vakinha.com.br"
     },
     {
       "id": "habynner-na-alemanha-universidade-de-mannheim",
@@ -295,7 +309,8 @@
       "goal": 40000,
       "recurring": false,
       "supporters": 35,
-      "featured": true
+      "featured": true,
+      "pix": "6382198@vakinha.com.br"
     },
     {
       "id": "ajude-a-tia-da-cantina",
@@ -314,7 +329,8 @@
       "goal": 37500,
       "recurring": false,
       "supporters": 250,
-      "featured": false
+      "featured": false,
+      "pix": "6415058@vakinha.com.br"
     },
     {
       "id": "ajuda-a-comprar-o-remedio-ofev",
@@ -333,7 +349,8 @@
       "goal": 19000,
       "recurring": false,
       "supporters": 70,
-      "featured": false
+      "featured": false,
+      "pix": "6409072@vakinha.com.br"
     },
     {
       "id": "ajude-o-dede-comprar-a-medicacao-da-epilepsia-de",
@@ -353,7 +370,8 @@
       "goal": 2400,
       "recurring": false,
       "supporters": 23,
-      "featured": false
+      "featured": false,
+      "pix": "6336816@vakinha.com.br"
     },
     {
       "id": "ajuda-para-uma-doenca-ocular-francieine-charlon",
@@ -372,7 +390,8 @@
       "goal": 10000,
       "recurring": false,
       "supporters": 55,
-      "featured": false
+      "featured": false,
+      "pix": "6422514@vakinha.com.br"
     },
     {
       "id": "mudanca-da-abrace",
@@ -391,7 +410,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 106,
-      "featured": false
+      "featured": false,
+      "pix": "6223005@vakinha.com.br"
     },
     {
       "id": "ajude-no-tratamento-dos-nossos-gatinhos",
@@ -410,7 +430,8 @@
       "goal": 25000,
       "recurring": false,
       "supporters": 947,
-      "featured": false
+      "featured": false,
+      "pix": "6300942@vakinha.com.br"
     },
     {
       "id": "perdemos-mais-de-20-animais-mas-nao-perdemos-nos",
@@ -430,7 +451,8 @@
       "goal": 60000,
       "recurring": false,
       "supporters": 45,
-      "featured": false
+      "featured": false,
+      "pix": "6432764@vakinha.com.br"
     },
     {
       "id": "resgate-da-pacoca-rabinho",
@@ -449,7 +471,8 @@
       "goal": 7000,
       "recurring": false,
       "supporters": 54,
-      "featured": false
+      "featured": false,
+      "pix": "6433235@vakinha.com.br"
     },
     {
       "id": "arrecadacao-de-doacoes-para-a-compra-de-cestas-b",
@@ -468,7 +491,8 @@
       "goal": 1000,
       "recurring": false,
       "supporters": 35,
-      "featured": false
+      "featured": false,
+      "pix": "6262582@vakinha.com.br"
     },
     {
       "id": "natal-solidario-em-mocambique",
@@ -488,7 +512,8 @@
       "goal": 21000,
       "recurring": false,
       "supporters": 8,
-      "featured": false
+      "featured": false,
+      "pix": "6418724@vakinha.com.br"
     },
     {
       "id": "uma-corrente-do-bem-por-quem-nunca-desistiu",
@@ -508,7 +533,8 @@
       "goal": 2000,
       "recurring": false,
       "supporters": 105,
-      "featured": false
+      "featured": false,
+      "pix": "6196795@vakinha.com.br"
     },
     {
       "id": "natal-solidario-ajude-mais-de-200-familias-a-ter",
@@ -528,7 +554,8 @@
       "goal": 8000,
       "recurring": false,
       "supporters": 5,
-      "featured": false
+      "featured": false,
+      "pix": "6410301@vakinha.com.br"
     },
     {
       "id": "bebe-gestos-de-bondade",
@@ -548,7 +575,8 @@
       "goal": 250000,
       "recurring": false,
       "supporters": 6485,
-      "featured": false
+      "featured": false,
+      "pix": "tobiasgestos@vakinha.com.br"
     },
     {
       "id": "vaquinha-pelo-matheus",
@@ -568,7 +596,8 @@
       "goal": 12000,
       "recurring": false,
       "supporters": 10,
-      "featured": false
+      "featured": false,
+      "pix": "6425005@vakinha.com.br"
     },
     {
       "id": "campanha-adote-um-natal-especial-2026",
@@ -588,7 +617,8 @@
       "goal": 8000,
       "recurring": false,
       "supporters": 8,
-      "featured": false
+      "featured": false,
+      "pix": "6432858@vakinha.com.br"
     },
     {
       "id": "orfanato-no-quenia",
@@ -607,7 +637,8 @@
       "goal": 50000,
       "recurring": false,
       "supporters": 9,
-      "featured": false
+      "featured": false,
+      "pix": "6398222@vakinha.com.br"
     },
     {
       "id": "ajude-a-custear-o-tratamento-da-gioia",
@@ -627,7 +658,8 @@
       "goal": 300000,
       "recurring": false,
       "supporters": 445,
-      "featured": false
+      "featured": false,
+      "pix": "6393093@vakinha.com.br"
     },
     {
       "id": "ajuda-no-tratamento-oncologico-de-daise-messias",
@@ -647,7 +679,8 @@
       "goal": 128000,
       "recurring": false,
       "supporters": 1034,
-      "featured": false
+      "featured": false,
+      "pix": "6421688@vakinha.com.br"
     },
     {
       "id": "uma-nova-chance-contra-o-melanoma-ajude-ana-mari",
@@ -667,7 +700,8 @@
       "goal": 1200000,
       "recurring": false,
       "supporters": 315,
-      "featured": false
+      "featured": false,
+      "pix": "6432849@vakinha.com.br"
     },
     {
       "id": "ajuda-na-compra-do-remedio-do-pequeno-miguel",
@@ -688,7 +722,8 @@
       "goal": 70000,
       "recurring": false,
       "supporters": 387,
-      "featured": false
+      "featured": false,
+      "pix": "6351667@vakinha.com.br"
     },
     {
       "id": "uma-corrente-do-bem-para-5-familias-recomecarem",
@@ -708,7 +743,8 @@
       "goal": 55000,
       "recurring": false,
       "supporters": 12,
-      "featured": false
+      "featured": false,
+      "pix": "6434133@vakinha.com.br"
     },
     {
       "id": "reestruturacao-das-irmas",
@@ -727,7 +763,8 @@
       "goal": 200000,
       "recurring": false,
       "supporters": 170,
-      "featured": false
+      "featured": false,
+      "pix": "6430262@vakinha.com.br"
     },
     {
       "id": "ajuda-pros-amigos-micherdan-e-carol-pelo-incendi",
@@ -746,7 +783,8 @@
       "goal": 100000,
       "recurring": false,
       "supporters": 80,
-      "featured": false
+      "featured": false,
+      "pix": "6428649@vakinha.com.br"
     },
     {
       "id": "fernando-perdeu-a-casa-num-incendio",
@@ -766,26 +804,8 @@
       "goal": 10000,
       "recurring": false,
       "supporters": 18,
-      "featured": false
-    },
-    {
-      "id": "ajude-nossos-estudantes-a-receber-suas-medalhas",
-      "title": "Medalhas da Olimpíada de Inglês para alunos do IFPR",
-      "organizer": "Patricia Ramos",
-      "location": "Foz do Iguaçu, PR",
-      "category": "educacao",
-      "tags": [
-        "educacao"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/ajude-nossos-estudantes-a-receber-suas-medalhas-da-olimpiada-brasileira-de-lingua-inglesa",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6433138/1793747921.77.jpg",
-      "description": "Estudantes do IFPR foram premiados na Olimpíada Brasileira de Língua Inglesa e precisam de ajuda para receber as medalhas.",
-      "raised": 1051,
-      "goal": 1180,
-      "recurring": false,
-      "supporters": 20,
-      "featured": false
+      "featured": false,
+      "pix": "6432359@vakinha.com.br"
     },
     {
       "id": "ajuda-de-custos-para-participacao-da-equipe-de-r",
@@ -804,7 +824,8 @@
       "goal": 2500,
       "recurring": false,
       "supporters": 24,
-      "featured": false
+      "featured": false,
+      "pix": "6355830@vakinha.com.br"
     },
     {
       "id": "ajude-o-gepic-a-continuar-fazendo-historia",
@@ -824,7 +845,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 29,
-      "featured": false
+      "featured": false,
+      "pix": "6430941@vakinha.com.br"
     },
     {
       "id": "me-manda-pra-turquia",
@@ -845,7 +867,8 @@
       "goal": 9000,
       "recurring": false,
       "supporters": 90,
-      "featured": false
+      "featured": false,
+      "pix": "6389883@vakinha.com.br"
     },
     {
       "id": "joao-e-maria-no-art-in-vento",
@@ -864,7 +887,8 @@
       "goal": 2000,
       "recurring": false,
       "supporters": 17,
-      "featured": false
+      "featured": false,
+      "pix": "6422703@vakinha.com.br"
     },
     {
       "id": "uma-oportunidade-internacional-violinista-brasil",
@@ -884,7 +908,8 @@
       "goal": 15000,
       "recurring": false,
       "supporters": 40,
-      "featured": false
+      "featured": false,
+      "pix": "6412929@vakinha.com.br"
     },
     {
       "id": "apoie-a-serie-de-recitais-de-piano-do-ccla",
@@ -903,7 +928,8 @@
       "goal": 50000,
       "recurring": false,
       "supporters": 8,
-      "featured": false
+      "featured": false,
+      "pix": "6426257@vakinha.com.br"
     },
     {
       "id": "ajude-um-musico-a-comprar-um-novo-instrumento-ap",
@@ -922,7 +948,8 @@
       "goal": 15000,
       "recurring": false,
       "supporters": 85,
-      "featured": false
+      "featured": false,
+      "pix": "6416408@vakinha.com.br"
     },
     {
       "id": "instituto-tear",
@@ -944,7 +971,8 @@
       "goal": 10000,
       "recurring": true,
       "supporters": 15,
-      "featured": false
+      "featured": false,
+      "pix": ""
     },
     {
       "id": "guincho-da-rose",
@@ -964,7 +992,8 @@
       "goal": 12500,
       "recurring": false,
       "supporters": 56,
-      "featured": false
+      "featured": false,
+      "pix": "6397064@vakinha.com.br"
     },
     {
       "id": "protese-mauricio",
@@ -984,7 +1013,8 @@
       "goal": 90000,
       "recurring": false,
       "supporters": 245,
-      "featured": false
+      "featured": false,
+      "pix": "6397494@vakinha.com.br"
     },
     {
       "id": "vamos-ajuda-a-manuela-para-ter-sua-cadeira",
@@ -1004,7 +1034,8 @@
       "goal": 8000,
       "recurring": false,
       "supporters": 50,
-      "featured": false
+      "featured": false,
+      "pix": "6400791@vakinha.com.br"
     },
     {
       "id": "projeto-17",
@@ -1024,7 +1055,8 @@
       "goal": 15000,
       "recurring": false,
       "supporters": 3,
-      "featured": false
+      "featured": false,
+      "pix": ""
     },
     {
       "id": "ajude-a-recuperar-o-espaco-de-quem-mais-precisa",
@@ -1044,7 +1076,8 @@
       "goal": 80000,
       "recurring": false,
       "supporters": 86,
-      "featured": false
+      "featured": false,
+      "pix": "6376982@vakinha.com.br"
     },
     {
       "id": "9-edicao-do-republica-do-rock",
@@ -1064,7 +1097,8 @@
       "goal": 14000,
       "recurring": false,
       "supporters": 62,
-      "featured": false
+      "featured": false,
+      "pix": "5985962@vakinha.com.br"
     },
     {
       "id": "enxoval-para-gestantes-necessitadas",
@@ -1085,7 +1119,8 @@
       "goal": 5000,
       "recurring": false,
       "supporters": 12,
-      "featured": false
+      "featured": false,
+      "pix": "6433959@vakinha.com.br"
     },
     {
       "id": "favela-da-paz",
@@ -1106,7 +1141,8 @@
       "goal": 8000,
       "recurring": true,
       "supporters": 6,
-      "featured": false
+      "featured": false,
+      "pix": ""
     },
     {
       "id": "ajuda-para-reconstruir-a-casa-de-deusiane-e-fabi",
@@ -1126,7 +1162,8 @@
       "goal": 30000,
       "recurring": false,
       "supporters": 58,
-      "featured": false
+      "featured": false,
+      "pix": "6429758@vakinha.com.br"
     },
     {
       "id": "ajude-minha-familia-a-recomecar-apos-perdermos-t",
@@ -1146,7 +1183,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 64,
-      "featured": false
+      "featured": false,
+      "pix": "6428668@vakinha.com.br"
     },
     {
       "id": "ajude-fatima-e-adao-a-salvar-seu-lar-e-enfrentar",
@@ -1167,7 +1205,8 @@
       "goal": 60000,
       "recurring": false,
       "supporters": 412,
-      "featured": false
+      "featured": false,
+      "pix": "6399105@vakinha.com.br"
     },
     {
       "id": "construcao-de-banheiro-para-catia",
@@ -1187,7 +1226,8 @@
       "goal": 5400,
       "recurring": false,
       "supporters": 37,
-      "featured": false
+      "featured": false,
+      "pix": "6415194@vakinha.com.br"
     },
     {
       "id": "contribuicao-jansustent-ecoatlas",
@@ -1207,7 +1247,8 @@
       "goal": 15000,
       "recurring": false,
       "supporters": 22,
-      "featured": false
+      "featured": false,
+      "pix": "6399851@vakinha.com.br"
     },
     {
       "id": "rumo-a-minnesota-2027",
@@ -1227,7 +1268,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 20,
-      "featured": false
+      "featured": false,
+      "pix": "6391363@vakinha.com.br"
     },
     {
       "id": "rumo-ao-chile-apoie-a-helo-a-contar-a-sua-trajet",
@@ -1248,7 +1290,8 @@
       "goal": 5000,
       "recurring": false,
       "supporters": 49,
-      "featured": false
+      "featured": false,
+      "pix": "6362589@vakinha.com.br"
     },
     {
       "id": "todos-pelo-gorilas",
@@ -1269,7 +1312,8 @@
       "goal": 10000,
       "recurring": false,
       "supporters": 4,
-      "featured": false
+      "featured": false,
+      "pix": "6422511@vakinha.com.br"
     },
     {
       "id": "uma-atleta-de-9-anos-rumo-a-selecao-brasileira",
@@ -1289,7 +1333,8 @@
       "goal": 10000,
       "recurring": false,
       "supporters": 15,
-      "featured": false
+      "featured": false,
+      "pix": "6426259@vakinha.com.br"
     },
     {
       "id": "ajude-o-campeao-brasileiro-kaio-vinicius-a-conqu",
@@ -1309,7 +1354,8 @@
       "goal": 22000,
       "recurring": false,
       "supporters": 28,
-      "featured": false
+      "featured": false,
+      "pix": "6380575@vakinha.com.br"
     },
     {
       "id": "capixaba-va-a-de-natal-2026",
@@ -1329,7 +1375,8 @@
       "goal": 3800,
       "recurring": false,
       "supporters": 12,
-      "featured": false
+      "featured": false,
+      "pix": "6430030@vakinha.com.br"
     },
     {
       "id": "vittinho-no-mundial-de-jiu-jitsu-de-abu-dhabi-20",
@@ -1349,7 +1396,8 @@
       "goal": 25000,
       "recurring": false,
       "supporters": 869,
-      "featured": false
+      "featured": false,
+      "pix": "6235737@vakinha.com.br"
     },
     {
       "id": "ajude-o-papai-noel-a-aposentar",
@@ -1369,7 +1417,8 @@
       "goal": 7000,
       "recurring": false,
       "supporters": 8,
-      "featured": false
+      "featured": false,
+      "pix": "6432114@vakinha.com.br"
     },
     {
       "id": "ajude-lar-de-idosos-leao-de-juda-lar-de-idosos-l",
@@ -1389,7 +1438,8 @@
       "goal": 50000,
       "recurring": false,
       "supporters": 5,
-      "featured": false
+      "featured": false,
+      "pix": "6431279@vakinha.com.br"
     },
     {
       "id": "vamos-ajudar-o-sr-paulo-a-conquistar-sua-bicicle",
@@ -1410,7 +1460,8 @@
       "goal": 25000,
       "recurring": false,
       "supporters": 5,
-      "featured": false
+      "featured": false,
+      "pix": "6381984@vakinha.com.br"
     },
     {
       "id": "ajuda-para-sobreviver-cassandra-carla-silva-cast",
@@ -1430,7 +1481,8 @@
       "goal": 7000,
       "recurring": false,
       "supporters": 23,
-      "featured": false
+      "featured": false,
+      "pix": "6384999@vakinha.com.br"
     },
     {
       "id": "ajude-o-biel-souza",
@@ -1450,7 +1502,8 @@
       "goal": 7000,
       "recurring": false,
       "supporters": 6,
-      "featured": false
+      "featured": false,
+      "pix": "6432354@vakinha.com.br"
     },
     {
       "id": "ajude-barbara-a-ingressar-na-escola-do-teatro-bo",
@@ -1470,7 +1523,8 @@
       "goal": 20000,
       "recurring": false,
       "supporters": 7,
-      "featured": false
+      "featured": false,
+      "pix": "6412358@vakinha.com.br"
     },
     {
       "id": "um-passo-ate-paris",
@@ -1491,7 +1545,8 @@
       "goal": 50000,
       "recurring": false,
       "supporters": 6,
-      "featured": false
+      "featured": false,
+      "pix": "6421909@vakinha.com.br"
     },
     {
       "id": "familia-silva-rafaela-mendes",
@@ -1511,7 +1566,8 @@
       "goal": 9000,
       "recurring": false,
       "supporters": 15,
-      "featured": false
+      "featured": false,
+      "pix": "6431702@vakinha.com.br"
     },
     {
       "id": "cadeira-para-isa",
@@ -1531,7 +1587,8 @@
       "goal": 280000,
       "recurring": false,
       "supporters": 4813,
-      "featured": false
+      "featured": false,
+      "pix": "6027058@vakinha.com.br"
     },
     {
       "id": "vaquinha-da-dona-cida-thamires-miranda-dos-santos-franca",
@@ -1551,7 +1608,8 @@
       "goal": 800,
       "recurring": false,
       "supporters": 20,
-      "featured": false
+      "featured": false,
+      "pix": "6415509@vakinha.com.br"
     },
     {
       "id": "oculos-bernardo",
@@ -1571,7 +1629,8 @@
       "goal": 947,
       "recurring": false,
       "supporters": 24,
-      "featured": false
+      "featured": false,
+      "pix": "6403696@vakinha.com.br"
     },
     {
       "id": "me-ajude-a-voltar-a-andar-e-recuperar-minha-saude",
@@ -1591,7 +1650,8 @@
       "goal": 6000,
       "recurring": false,
       "supporters": 98,
-      "featured": false
+      "featured": false,
+      "pix": "6424590@vakinha.com.br"
     },
     {
       "id": "ajuda-urgente-para-salvar-o-jumentinho-de-jericoacoara",
@@ -1610,7 +1670,29 @@
       "goal": 7000,
       "recurring": false,
       "supporters": 120,
-      "featured": false
+      "featured": false,
+      "pix": "6080157@vakinha.com.br"
+    },
+    {
+      "id": "joi-no-mundo-ajude-a-transformar-minha-bolsa-de-intercambio-em-uma-viagem-real",
+      "title": "Joice rumo ao intercâmbio conquistado",
+      "organizer": "Joice Almeida Sales",
+      "location": "Camaçari, BA",
+      "category": "educacao",
+      "tags": [
+        "educacao",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/joi-no-mundo-ajude-a-transformar-minha-bolsa-de-intercambio-em-uma-viagem-real",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6196204/1783382430.26.jpg",
+      "description": "A Joice ganhou uma bolsa de intercâmbio pela ONG Soul Bilíngue, que ensina inglês a jovens de baixa renda. Falta pagar a viagem para ela chegar lá.",
+      "raised": 3214.04,
+      "goal": 30000,
+      "recurring": false,
+      "supporters": 59,
+      "featured": false,
+      "pix": "6196204@vakinha.com.br"
     }
   ]
 }
