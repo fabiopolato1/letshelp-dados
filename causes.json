@@ -452,26 +452,6 @@
       "featured": false
     },
     {
-      "id": "doe-dez-e-ajude-a-alimentar-mais-de-cem",
-      "title": "Doe dez e ajude a alimentar mais de cem",
-      "organizer": "Amora Movimento Animal",
-      "location": "",
-      "category": "animais",
-      "tags": [
-        "animais",
-        "fome"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/doe-dez-e-ajude-a-alimentar-mais-de-cem",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5720263/1759311409.35.jpg",
-      "description": "Com R$ 10 você ajuda a encher o pote de ração dos mais de 100 cães e gatos resgatados pelo Projeto Amora.",
-      "raised": 12177,
-      "goal": 9200,
-      "recurring": false,
-      "supporters": 234,
-      "featured": false
-    },
-    {
       "id": "arrecadacao-de-doacoes-para-a-compra-de-cestas-b",
       "title": "Cestas básicas para famílias necessitadas",
       "organizer": "Hellen Cristiny da Silva",
@@ -670,26 +650,6 @@
       "featured": false
     },
     {
-      "id": "ajude-a-monica-a-realizar-a-cirurgia-de-retirada",
-      "title": "Ajude a Mônica a retirar um tumor",
-      "organizer": "Mônica Dalla Vechia",
-      "location": "Três de Maio, RS",
-      "category": "cancer",
-      "tags": [
-        "cancer",
-        "saude"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-monica-a-realizar-a-cirurgia-de-retirada-de-tumor",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6423540/1793327062.329.jpg",
-      "description": "Aos 22 anos, Mônica descobriu um tumor e precisa de ajuda para pagar a cirurgia de retirada.",
-      "raised": 19456.01,
-      "goal": 36000,
-      "recurring": false,
-      "supporters": 296,
-      "featured": false
-    },
-    {
       "id": "uma-nova-chance-contra-o-melanoma-ajude-ana-mari",
       "title": "Ajude Ana Maria na luta contra o melanoma",
       "organizer": "Família de Ana Maria",
@@ -847,25 +807,6 @@
       "featured": false
     },
     {
-      "id": "rumo-ao-nacional-star-space",
-      "title": "Star Space rumo ao Nacional de Robótica",
-      "organizer": "Equipe Star Space",
-      "location": "Paulista, PE",
-      "category": "educacao",
-      "tags": [
-        "educacao"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/rumo-ao-nacional-star-space",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6412627/1792968828.034.jpg",
-      "description": "Uma equipe de robótica de garagem, formada por alunos de várias escolas, quer competir no campeonato nacional.",
-      "raised": 646,
-      "goal": 20000,
-      "recurring": false,
-      "supporters": 10,
-      "featured": false
-    },
-    {
       "id": "ajude-o-gepic-a-continuar-fazendo-historia",
       "title": "Ajude o cursinho GEPIC a continuar fazendo história",
       "organizer": "Rodrigo Milleo",
@@ -930,10 +871,10 @@
       "title": "De Niterói a Berlim: um violinista na Filarmônica",
       "organizer": "Rafael Almeida",
       "location": "São Gonçalo, RJ",
-      "category": "arte",
+      "category": "sonhos",
       "tags": [
-        "arte",
-        "sonhos"
+        "sonhos",
+        "arte"
       ],
       "platform": "Vakinha",
       "url": "https://www.vakinha.com.br/vaquinha/uma-oportunidade-internacional-violinista-brasileiro-na-filarmonica-de-berlim",
@@ -1066,44 +1007,6 @@
       "featured": false
     },
     {
-      "id": "enxergando-o-futuro-lucas-da-silva-zago",
-      "title": "Enxergando o futuro",
-      "organizer": "Lucas da Silva Zago",
-      "location": "",
-      "category": "inclusao",
-      "tags": [
-        "inclusao"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/enxergando-o-futuro-lucas-da-silva-zago",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6407764/edfbbdbf-8d74-4e9e-99c7-45ae550cb449.jpeg",
-      "description": "Com deficiência visual, Lucas quer comprar óculos inteligentes que leem textos e descrevem o ambiente ao redor.",
-      "raised": 1485.08,
-      "goal": 4300,
-      "recurring": false,
-      "supporters": 27,
-      "featured": false
-    },
-    {
-      "id": "ajuda-comprar-cadeira-escaladora",
-      "title": "Uma cadeira escaladora para a Dianna sair de casa",
-      "organizer": "Patricia Moreira da Silva",
-      "location": "Salvador, BA",
-      "category": "inclusao",
-      "tags": [
-        "inclusao"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/ajuda-comprar-cadeira-escaladora",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6387937/1791854897.204.jpg",
-      "description": "Sem elevador no prédio, Dianna depende de uma cadeira de rodas que sobe e desce escadas para ver o mundo lá fora.",
-      "raised": 4970.17,
-      "goal": 80000,
-      "recurring": false,
-      "supporters": 29,
-      "featured": false
-    },
-    {
       "id": "projeto-17",
       "title": "Uma nova casa para o Projeto 17+",
       "organizer": "Projeto 17+",
@@ -1141,26 +1044,6 @@
       "goal": 80000,
       "recurring": false,
       "supporters": 86,
-      "featured": false
-    },
-    {
-      "id": "ajuda-para-construi-uma-biblioteca-comunitaria",
-      "title": "Uma biblioteca comunitária",
-      "organizer": "William, da WDGames",
-      "location": "",
-      "category": "comunidades",
-      "tags": [
-        "comunidades",
-        "educacao"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-construi-uma-biblioteca-comunitaria",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6274343/ECDF290E-ED3B-4EC1-A70C-D754499085C5.jpg",
-      "description": "William quer abrir uma biblioteca gratuita no bairro, unindo leitura e games para atrair crianças e jovens.",
-      "raised": 28637.79,
-      "goal": 20000,
-      "recurring": false,
-      "supporters": 407,
       "featured": false
     },
     {
@@ -1243,26 +1126,6 @@
       "goal": 30000,
       "recurring": false,
       "supporters": 58,
-      "featured": false
-    },
-    {
-      "id": "ajude-o-ricardo-da-gabizo-a-conquistar-seu-lar",
-      "title": "Ajude o Ricardo a conquistar seu lar",
-      "organizer": "Gleice",
-      "location": "Rio de Janeiro, RJ",
-      "category": "moradia",
-      "tags": [
-        "moradia",
-        "comunidades"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-ricardo-da-gabizo-a-conquistar-seu-lar",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6425815/1793414843.512.jpg",
-      "description": "Depois de viver nas ruas, Ricardo reconstruiu a vida e luta para não perder a casa que conquistou.",
-      "raised": 5310.46,
-      "goal": 64800,
-      "recurring": false,
-      "supporters": 14,
       "featured": false
     },
     {
