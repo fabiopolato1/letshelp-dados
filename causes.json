@@ -1,64 +1,987 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "causes": [
     {
-      "id": "voz-animal-emergencia",
-      "title": "Vakinha de Emergência do Santuário Voz Animal",
-      "organizer": "Santuário Voz Animal",
-      "location": "RS",
-      "category": "animais",
-      "tags": [
-        "animais",
-        "emergencias"
-      ],
-      "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/vakinha-de-emergencia-do-santuario-voz-animal",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/1945739/FOTO_VAKINHA_2021.jpg?ims=1200x630",
-      "description": "Santuário com mais de 300 animais pede ajuda para vacinas, reparo de cercas e abrigos depois de um recorde de abandonos.",
-      "raised": 15234.05,
-      "goal": 39000,
-      "recurring": false,
-      "supporters": 185,
-      "featured": true
-    },
-    {
-      "id": "rafa-voltar-a-andar",
-      "title": "Para fazer a Rafa voltar a andar",
-      "organizer": "Rafaela Coelho Dyna",
-      "location": "SP",
+      "id": "ajude-me-na-minha-luta-contra-a-epidermolise-bol",
+      "title": "Débora precisa de 4 cirurgias urgentes",
+      "organizer": "Débora Vitória",
+      "location": "Iguatu, CE",
       "category": "saude",
       "tags": [
         "saude"
       ],
       "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/6204316",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6204316/1783650379.996.jpg?ims=1200x630",
-      "description": "Tratamento de reabilitação em São Paulo para a Rafaela recuperar os movimentos depois de uma infecção na medula.",
-      "raised": 13522.9,
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-me-na-minha-luta-contra-a-epidermolise-bolhosa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5362528/F620C0EB-2815-4D19-9358-372DCFB326EC.jpg",
+      "description": "Aos 18 anos, Débora convive com epidermólise bolhosa, uma doença rara da pele, e precisa de quatro cirurgias para seguir o tratamento.",
+      "raised": 50550.83,
       "goal": 300000,
       "recurring": false,
-      "supporters": 100,
+      "supporters": 736,
       "featured": true
     },
     {
-      "id": "cozinha-do-bem",
-      "title": "Cozinha do Bem",
-      "organizer": "Cozinha do Bem",
+      "id": "missao-reconstruir-a-casinha-dos-felvs",
+      "title": "Missão: reconstruir a casinha dos FeLVs",
+      "organizer": "Abrigo Anjo Gabriel",
       "location": "",
+      "category": "animais",
+      "tags": [
+        "animais"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/missao-reconstruir-a-casinha-dos-felvs",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6189391/1782844995.416.jpg",
+      "description": "O Abrigo Anjo Gabriel quer reconstruir o espaço onde vivem os gatos com FeLV, que precisam de cuidado e isolamento especiais.",
+      "raised": 24854.96,
+      "goal": 60000,
+      "recurring": false,
+      "supporters": 296,
+      "featured": true
+    },
+    {
+      "id": "start-projeto-social-rango-resistencia",
+      "title": "Rango & Resistência: marmitas no ABC",
+      "organizer": "Rango & Resistência ABC",
+      "location": "ABC Paulista, SP",
       "category": "fome",
       "tags": [
         "fome",
         "comunidades"
       ],
       "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/cozinha-do-bem",
-      "image": "https://static.vakinha.com.br/uploads/asset/image/1575975/e60c6ddd44c4.jpg",
-      "description": "O grupo prepara refeições para quem passa fome e precisa construir a própria cozinha depois de perder a sede alugada.",
-      "raised": 245,
+      "url": "https://www.vakinha.com.br/vaquinha/start-projeto-social-rango-resistencia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6360871/1790528677.269.jpg",
+      "description": "Um coletivo prepara e distribui marmitas para pessoas em situação de rua no ABC Paulista.",
+      "raised": 950,
+      "goal": 5000,
+      "recurring": false,
+      "supporters": 11,
+      "featured": true
+    },
+    {
+      "id": "salve-o-dudu-eduardo-lorensi-da-silva",
+      "title": "Salve o Dudu",
+      "organizer": "Família do Dudu",
+      "location": "Erechim, RS",
+      "category": "criancas",
+      "tags": [
+        "criancas",
+        "saude",
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/salve-o-dudu-eduardo-lorensi-da-silva",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5103019/1755286513.452.jpg",
+      "description": "Dudu tem 11 anos e Distrofia Muscular de Duchenne. Milhares de pessoas se uniram para que ele chegue à terapia que pode mudar sua vida.",
+      "raised": 404196.52,
+      "goal": 17000000,
+      "recurring": false,
+      "supporters": 5953,
+      "featured": true
+    },
+    {
+      "id": "tratamento-do-cancer-medicamentos-para-valderes",
+      "title": "Ajude a professora Valderes na luta contra o câncer",
+      "organizer": "Luan, filho da Valderes",
+      "location": "Maringá, PR",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/tratamento-do-cancer-medicamentos-para-valderes",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6405641/1792640956.835.jpg",
+      "description": "A professora Valderes enfrenta um câncer metastático, e a família reúne apoio para custear os medicamentos do tratamento.",
+      "raised": 36645.26,
+      "goal": 180000,
+      "recurring": false,
+      "supporters": 432,
+      "featured": true
+    },
+    {
+      "id": "maracai-precisa-recomecar-ajude-a-reconstruir-35",
+      "title": "Maracaí precisa recomeçar: 56 lares para reconstruir",
+      "organizer": "Juntos por Maracaí",
+      "location": "Maracaí, SP",
+      "category": "emergencias",
+      "tags": [
+        "emergencias",
+        "moradia"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/maracai-precisa-recomecar-ajude-a-reconstruir-35-lares",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432112/1793721320.261.jpg",
+      "description": "As enchentes deixaram cerca de 56 famílias desabrigadas em Maracaí. A cidade se uniu para reconstruir as casas.",
+      "raised": 1905,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 30,
+      "featured": true
+    },
+    {
+      "id": "ajude-o-conecta-se-manter-vivo",
+      "title": "Ajude o Conecta a se manter vivo",
+      "organizer": "Alunos do Colégio Pedro II",
+      "location": "Rio de Janeiro, RJ",
+      "category": "educacao",
+      "tags": [
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-conecta-se-manter-vivo",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6409025/1792783500.618.jpg",
+      "description": "Cinco estudantes do Colégio Pedro II criaram uma rede social para fortalecer a comunidade escolar e precisam mantê-la no ar.",
+      "raised": 1070.71,
+      "goal": 2500,
+      "recurring": false,
+      "supporters": 93,
+      "featured": true
+    },
+    {
+      "id": "osp-uma-harpa-para-chamar-de-nossa",
+      "title": "Uma harpa para a Orquestra Sinfônica de Piracicaba",
+      "organizer": "Orquestra Sinfônica de Piracicaba",
+      "location": "Piracicaba, SP",
+      "category": "arte",
+      "tags": [
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/osp-uma-harpa-para-chamar-de-nossa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6401635/1792498406.9.jpg",
+      "description": "Com 126 anos de história, a orquestra da cidade quer ter sua própria harpa.",
+      "raised": 5278.03,
+      "goal": 60000,
+      "recurring": false,
+      "supporters": 40,
+      "featured": true
+    },
+    {
+      "id": "o-despertar-da-gargalhada-circo-atipico",
+      "title": "Circo Atípico: o despertar da gargalhada",
+      "organizer": "O Despertar da Inclusão",
+      "location": "São Bernardo do Campo, SP",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "criancas",
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/o-despertar-da-gargalhada-circo-atipico",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6393833/1792696275.163.jpg",
+      "description": "Uma festa de circo pensada para que toda criança, com ou sem deficiência, seja acolhida e possa brincar.",
+      "raised": 1208,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 17,
+      "featured": true
+    },
+    {
+      "id": "fonte-de-luz-ajude-a-manter-essa-historia-viva",
+      "title": "Fonte de Luz: 45 anos cuidando de pessoas",
+      "organizer": "Fonte de Luz",
+      "location": "São Caetano do Sul, SP",
+      "category": "comunidades",
+      "tags": [
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/fonte-de-luz-ajude-a-manter-essa-historia-viva",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422689/1793306481.318.jpg",
+      "description": "Há 45 anos acolhendo quem precisa, a instituição pede ajuda para reformar a casa onde atende a comunidade.",
+      "raised": 5645.43,
+      "goal": 30500,
+      "recurring": false,
+      "supporters": 47,
+      "featured": true
+    },
+    {
+      "id": "ajude-a-familia-do-godoy-a-recontruir-a-casa-apo",
+      "title": "Ajude a família do Godoy a reconstruir a casa",
+      "organizer": "Amigos da família",
+      "location": "Porto Alegre, RS",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-familia-do-godoy-a-recontruir-a-casa-apos-o-incendio",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6424882/1793384880.948.jpg",
+      "description": "Um incêndio destruiu a casa do Godoy e da família. Mais de 200 pessoas já ajudam na reconstrução.",
+      "raised": 14448,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 219,
+      "featured": true
+    },
+    {
+      "id": "educacao-sobre-oceanos-na-canoa-icoa",
+      "title": "Canoa ICOA: educação sobre os oceanos",
+      "organizer": "Projeto Navegar",
+      "location": "Ubatuba, SP",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/educacao-sobre-oceanos-na-canoa-icoa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6417143/1793124940.283.jpg",
+      "description": "Um laboratório móvel que já levou educação sobre o mar a mais de 10 mil pessoas precisa voltar a rodar.",
+      "raised": 4260,
       "goal": 30000,
       "recurring": false,
-      "supporters": 6,
+      "supporters": 53,
       "featured": true
+    },
+    {
+      "id": "ajuda-para-comprar-as-barreiras-de-vladimir",
+      "title": "Barreiras oficiais para o Vladimir treinar",
+      "organizer": "Vava",
+      "location": "Extremoz, RN",
+      "category": "esporte",
+      "tags": [
+        "esporte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-comprar-as-barreiras-de-vladimir",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6406104/1793199163.25.jpg",
+      "description": "Vladimir treina atletismo numa estrada de areia no interior do RN e precisa de barreiras oficiais para evoluir.",
+      "raised": 980,
+      "goal": 4000,
+      "recurring": false,
+      "supporters": 19,
+      "featured": true
+    },
+    {
+      "id": "sonorizacao-no-horizonte-azul",
+      "title": "Som novo para o Clube da Terceira Idade Horizonte Azul",
+      "organizer": "Carlos Cerqueira",
+      "location": "",
+      "category": "idosos",
+      "tags": [
+        "idosos",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/sonorizacao-no-horizonte-azul",
+      "image": "",
+      "description": "O clube que reúne idosos para bailes e atividades quer trocar o sistema de som antigo e ultrapassado.",
+      "raised": 3020,
+      "goal": 25000,
+      "recurring": false,
+      "supporters": 36,
+      "featured": true
+    },
+    {
+      "id": "habynner-na-alemanha-universidade-de-mannheim",
+      "title": "Habynner na Universidade de Mannheim",
+      "organizer": "Habynner Oliveira",
+      "location": "Ubiratã, PR",
+      "category": "sonhos",
+      "tags": [
+        "sonhos",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/habynner-na-alemanha-universidade-de-mannheim",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6382198/1793643469.72.jpg",
+      "description": "Aos 18 anos, o jovem do interior do Paraná foi aceito numa universidade alemã e precisa de apoio para a mudança.",
+      "raised": 2460,
+      "goal": 40000,
+      "recurring": false,
+      "supporters": 35,
+      "featured": true
+    },
+    {
+      "id": "ajude-a-tia-da-cantina",
+      "title": "Ajude a Tia da Cantina",
+      "organizer": "Maira Krelling",
+      "location": "Joinville, SC",
+      "category": "saude",
+      "tags": [
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-tia-da-cantina",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6415058/1793048789.74.jpg",
+      "description": "Querida pelos alunos da escola onde trabalha, Maira trata esclerose sistêmica e fibrose pulmonar e precisa de um remédio de alto custo.",
+      "raised": 35650,
+      "goal": 37500,
+      "recurring": false,
+      "supporters": 250,
+      "featured": false
+    },
+    {
+      "id": "ajuda-a-comprar-o-remedio-ofev",
+      "title": "Ajuda a comprar o remédio Ofev",
+      "organizer": "Família de Tania",
+      "location": "",
+      "category": "saude",
+      "tags": [
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-a-comprar-o-remedio-ofev",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6409072/1793142597.093.jpg",
+      "description": "Professora e psicóloga, Tania dedicou a vida a cuidar dos outros e agora precisa de ajuda para comprar a medicação para o pulmão.",
+      "raised": 8825.01,
+      "goal": 19000,
+      "recurring": false,
+      "supporters": 70,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-dede-comprar-a-medicacao-da-epilepsia-de",
+      "title": "Ajude o Dedé a comprar a medicação da epilepsia",
+      "organizer": "Aliny Cotechini Rodrigues",
+      "location": "",
+      "category": "saude",
+      "tags": [
+        "saude",
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-dede-comprar-a-medicacao-da-epilepsia-de-dificil-controle",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6336816/ed8c0b93-17e0-4454-8539-cab9d64bd18c.jpeg",
+      "description": "Dedé é cego de nascença, tem autismo e epilepsia de difícil controle. A família arrecada para manter o remédio que segura as crises.",
+      "raised": 1675.01,
+      "goal": 2400,
+      "recurring": false,
+      "supporters": 23,
+      "featured": false
+    },
+    {
+      "id": "ajuda-para-uma-doenca-ocular-francieine-charlon",
+      "title": "Ajuda para tratar uma doença ocular grave",
+      "organizer": "Francieine",
+      "location": "Palhoça, SC",
+      "category": "saude",
+      "tags": [
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-uma-doenca-ocular-francieine-charlon-correa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422514/1793302045.076.jpg",
+      "description": "Fran corre contra o tempo para tratar uma inflamação grave nos olhos e preservar a visão.",
+      "raised": 2340,
+      "goal": 10000,
+      "recurring": false,
+      "supporters": 55,
+      "featured": false
+    },
+    {
+      "id": "mudanca-da-abrace",
+      "title": "Mudança da ABRACE",
+      "organizer": "ONG ABRACE",
+      "location": "",
+      "category": "animais",
+      "tags": [
+        "animais"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/mudanca-da-abrace",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6223005/1784563039.607.jpg",
+      "description": "Há mais de dez anos resgatando animais, a ABRACE busca recursos para se mudar para um lar definitivo.",
+      "raised": 7291.58,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 106,
+      "featured": false
+    },
+    {
+      "id": "ajude-no-tratamento-dos-nossos-gatinhos",
+      "title": "Ajude no tratamento dos nossos gatinhos",
+      "organizer": "Refúgio Patinhas da Cris",
+      "location": "",
+      "category": "animais",
+      "tags": [
+        "animais"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-no-tratamento-dos-nossos-gatinhos",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6300942/9CA8318B-89E1-4AF5-9139-C9D633649B39.png",
+      "description": "O Refúgio Patinhas da Cris cuida de gatinhos internados com rinotraqueíte e precisa cobrir as despesas veterinárias.",
+      "raised": 29521.61,
+      "goal": 25000,
+      "recurring": false,
+      "supporters": 947,
+      "featured": false
+    },
+    {
+      "id": "perdemos-mais-de-20-animais-mas-nao-perdemos-nos",
+      "title": "Chácara Domínio 69 precisa recomeçar",
+      "organizer": "Chácara Domínio 69",
+      "location": "Ponta Grossa, PR",
+      "category": "animais",
+      "tags": [
+        "animais",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/perdemos-mais-de-20-animais-mas-nao-perdemos-nosso-sonho-ajude-a-chacara-dominio-69-a-recomecar",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432764/1793740051.933.jpg",
+      "description": "Depois de perder mais de 20 animais num ataque de cães, a chácara busca apoio para se reerguer.",
+      "raised": 1935,
+      "goal": 60000,
+      "recurring": false,
+      "supporters": 45,
+      "featured": false
+    },
+    {
+      "id": "resgate-da-pacoca-rabinho",
+      "title": "Resgate da Paçoca",
+      "organizer": "Paula Boro do Amaral",
+      "location": "",
+      "category": "animais",
+      "tags": [
+        "animais"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/resgate-da-pacoca-rabinho",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6433235/1793748978.643.jpg",
+      "description": "Resgatada depois de muitas tentativas, a cadelinha Paçoca precisa tratar ferimentos graves e uma fratura no fêmur.",
+      "raised": 4361,
+      "goal": 7000,
+      "recurring": false,
+      "supporters": 54,
+      "featured": false
+    },
+    {
+      "id": "doe-dez-e-ajude-a-alimentar-mais-de-cem",
+      "title": "Doe dez e ajude a alimentar mais de cem",
+      "organizer": "Amora Movimento Animal",
+      "location": "",
+      "category": "animais",
+      "tags": [
+        "animais",
+        "fome"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/doe-dez-e-ajude-a-alimentar-mais-de-cem",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5720263/1759311409.35.jpg",
+      "description": "Com R$ 10 você ajuda a encher o pote de ração dos mais de 100 cães e gatos resgatados pelo Projeto Amora.",
+      "raised": 12177,
+      "goal": 9200,
+      "recurring": false,
+      "supporters": 234,
+      "featured": false
+    },
+    {
+      "id": "arrecadacao-de-doacoes-para-a-compra-de-cestas-b",
+      "title": "Cestas básicas para famílias necessitadas",
+      "organizer": "Hellen Cristiny da Silva",
+      "location": "",
+      "category": "fome",
+      "tags": [
+        "fome"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/arrecadacao-de-doacoes-para-a-compra-de-cestas-basicas-destinadas-a-familias-necessitadas",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6262582/1786408270.043.jpg",
+      "description": "Cada doação vira alimento na mesa de famílias em situação de necessidade.",
+      "raised": 1120.6,
+      "goal": 1000,
+      "recurring": false,
+      "supporters": 35,
+      "featured": false
+    },
+    {
+      "id": "natal-solidario-em-mocambique",
+      "title": "Natal Solidário em Moçambique",
+      "organizer": "Instituto Promev",
+      "location": "Osasco, SP",
+      "category": "fome",
+      "tags": [
+        "fome",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/natal-solidario-em-mocambique",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6418724/1793165171.99.jpg",
+      "description": "Pelo oitavo ano, o Instituto Promev leva alimentos para 100 famílias de uma aldeia em Moçambique no Natal.",
+      "raised": 352,
+      "goal": 21000,
+      "recurring": false,
+      "supporters": 8,
+      "featured": false
+    },
+    {
+      "id": "uma-corrente-do-bem-por-quem-nunca-desistiu",
+      "title": "Uma corrente do bem por quem nunca desistiu",
+      "organizer": "Danton Wasman",
+      "location": "",
+      "category": "fome",
+      "tags": [
+        "fome",
+        "idosos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/uma-corrente-do-bem-por-quem-nunca-desistiu",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6196795/1783257947.237.jpg",
+      "description": "Uma senhora com problemas de visão sobrevive recolhendo latinhas. A corrente garante comida e mais dignidade no dia a dia.",
+      "raised": 2076.34,
+      "goal": 2000,
+      "recurring": false,
+      "supporters": 105,
+      "featured": false
+    },
+    {
+      "id": "natal-solidario-ajude-mais-de-200-familias-a-ter",
+      "title": "Natal melhor para mais de 200 famílias",
+      "organizer": "Leonardo Pecorari",
+      "location": "Itatiba, SP",
+      "category": "fome",
+      "tags": [
+        "fome",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/natal-solidario-ajude-mais-de-200-familias-a-ter-um-natal-melhor",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6410301/1793709715.562.jpg",
+      "description": "Como todo ano, voluntários de Itatiba montam cestas para que mais de 200 famílias tenham um Natal com mesa farta.",
+      "raised": 1400,
+      "goal": 8000,
+      "recurring": false,
+      "supporters": 5,
+      "featured": false
+    },
+    {
+      "id": "bebe-gestos-de-bondade",
+      "title": "Tobias está na UTI: ajude no tratamento",
+      "organizer": "Gestos de Bondade",
+      "location": "",
+      "category": "criancas",
+      "tags": [
+        "criancas",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/bebe-gestos-de-bondade",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6183652/18647470-8B9A-47F5-B164-B3F94A402473.jpg",
+      "description": "Com 9 meses, Tobias trata hérnias, problemas nos rins e um sopro no coração. A doação cobre internação e cuidados.",
+      "raised": 160782.84,
+      "goal": 250000,
+      "recurring": false,
+      "supporters": 6485,
+      "featured": false
+    },
+    {
+      "id": "vaquinha-pelo-matheus",
+      "title": "Um capacete de órtese para o Matheus",
+      "organizer": "Família do Matheus",
+      "location": "Chapecó, SC",
+      "category": "criancas",
+      "tags": [
+        "criancas",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vaquinha-pelo-matheus",
+      "image": "",
+      "description": "O pequeno Matheus precisa de um capacete de órtese craniana para corrigir o formato da cabeça enquanto ainda é bebê.",
+      "raised": 700,
+      "goal": 12000,
+      "recurring": false,
+      "supporters": 10,
+      "featured": false
+    },
+    {
+      "id": "campanha-adote-um-natal-especial-2026",
+      "title": "Campanha ADOTE: um Natal especial 2026",
+      "organizer": "ADOTE, grupo de apoio à adoção",
+      "location": "Rio das Ostras, RJ",
+      "category": "criancas",
+      "tags": [
+        "criancas",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/campanha-adote-um-natal-especial-2026",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432858/1793739062.495.jpg",
+      "description": "O grupo ADOTE prepara a festa de Natal das crianças e adolescentes acolhidos em Rio das Ostras.",
+      "raised": 280,
+      "goal": 8000,
+      "recurring": false,
+      "supporters": 8,
+      "featured": false
+    },
+    {
+      "id": "orfanato-no-quenia",
+      "title": "Um orfanato no Quênia",
+      "organizer": "Adriana Gemelli Zanella",
+      "location": "Itajaí, SC",
+      "category": "criancas",
+      "tags": [
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/orfanato-no-quenia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6398222/1792336498.285.jpg",
+      "description": "Brasileiros arrecadam para construir um lar seguro para crianças órfãs no Quênia.",
+      "raised": 1000,
+      "goal": 50000,
+      "recurring": false,
+      "supporters": 9,
+      "featured": false
+    },
+    {
+      "id": "ajude-a-custear-o-tratamento-da-gioia",
+      "title": "Ajude no tratamento de mieloma da Gioia",
+      "organizer": "Família de Gioia",
+      "location": "Santo André, SP",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-custear-o-tratamento-da-gioia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6393093/1793196909.602.jpg",
+      "description": "Diagnosticada com mieloma, um câncer no sangue, Gioia precisa de apoio para manter um tratamento longo e caro.",
+      "raised": 94151.27,
+      "goal": 300000,
+      "recurring": false,
+      "supporters": 445,
+      "featured": false
+    },
+    {
+      "id": "ajuda-no-tratamento-oncologico-de-daise-messias",
+      "title": "Ajuda no tratamento oncológico de Daise Messias",
+      "organizer": "Daise Messias",
+      "location": "",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-no-tratamento-oncologico-de-daise-messias",
+      "image": "",
+      "description": "Daise arrecada para as doses de imunoterapia indicadas pelo médico. Mais de mil pessoas já entraram nessa corrente.",
+      "raised": 62845.96,
+      "goal": 128000,
+      "recurring": false,
+      "supporters": 1034,
+      "featured": false
+    },
+    {
+      "id": "ajude-a-monica-a-realizar-a-cirurgia-de-retirada",
+      "title": "Ajude a Mônica a retirar um tumor",
+      "organizer": "Mônica Dalla Vechia",
+      "location": "Três de Maio, RS",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-monica-a-realizar-a-cirurgia-de-retirada-de-tumor",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6423540/1793327062.329.jpg",
+      "description": "Aos 22 anos, Mônica descobriu um tumor e precisa de ajuda para pagar a cirurgia de retirada.",
+      "raised": 19456.01,
+      "goal": 36000,
+      "recurring": false,
+      "supporters": 296,
+      "featured": false
+    },
+    {
+      "id": "uma-nova-chance-contra-o-melanoma-ajude-ana-mari",
+      "title": "Ajude Ana Maria na luta contra o melanoma",
+      "organizer": "Família de Ana Maria",
+      "location": "Uberlândia, MG",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/uma-nova-chance-contra-o-melanoma-ajude-ana-maria-a-chegar-ao-tratamento",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432849/1793738557.254.jpg",
+      "description": "Mãe de dois filhos, Ana Maria trata um melanoma há três anos e busca acesso a um novo tratamento.",
+      "raised": 53982,
+      "goal": 1200000,
+      "recurring": false,
+      "supporters": 315,
+      "featured": false
+    },
+    {
+      "id": "ajuda-na-compra-do-remedio-do-pequeno-miguel",
+      "title": "Ajuda na compra do remédio do pequeno Miguel",
+      "organizer": "Família do Miguel",
+      "location": "Santo André, SP",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "criancas",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-na-compra-do-remedio-do-pequeno-miguel",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6351667/1790078743.38.jpg",
+      "description": "Miguel é uma criança em tratamento contra tumores e depende de um remédio que custa cerca de R$ 70 mil por mês.",
+      "raised": 21330.36,
+      "goal": 70000,
+      "recurring": false,
+      "supporters": 387,
+      "featured": false
+    },
+    {
+      "id": "uma-corrente-do-bem-para-5-familias-recomecarem",
+      "title": "Uma corrente do bem para 5 famílias recomeçarem",
+      "organizer": "Jaquelini Gisuato",
+      "location": "Ivinhema, MS",
+      "category": "emergencias",
+      "tags": [
+        "emergencias",
+        "moradia"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/uma-corrente-do-bem-para-5-familias-recomecarem",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6434133/1793795284.634.jpg",
+      "description": "Uma ventania forte destruiu as casas de cinco famílias em Ivinhema. A arrecadação ajuda a reconstruir tudo.",
+      "raised": 2115,
+      "goal": 55000,
+      "recurring": false,
+      "supporters": 12,
+      "featured": false
+    },
+    {
+      "id": "reestruturacao-das-irmas",
+      "title": "Reestruturação das Irmãs",
+      "organizer": "Cosma Dantas de Carvalho",
+      "location": "Mossoró, RN",
+      "category": "emergencias",
+      "tags": [
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/reestruturacao-das-irmas",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6430262/1793643544.531.jpg",
+      "description": "Um incêndio destruiu o pequeno negócio de duas irmãs em Mossoró. Elas buscam apoio para reabrir as portas.",
+      "raised": 13748.1,
+      "goal": 200000,
+      "recurring": false,
+      "supporters": 170,
+      "featured": false
+    },
+    {
+      "id": "ajuda-pros-amigos-micherdan-e-carol-pelo-incendi",
+      "title": "Ajuda para Micherdan e Carol depois do incêndio",
+      "organizer": "Amigos do casal",
+      "location": "",
+      "category": "emergencias",
+      "tags": [
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-pros-amigos-micherdan-e-carol-pelo-incendio-na-mixclean",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6428649/1793565612.92.jpg",
+      "description": "O casal perdeu a estrutura de trabalho num incêndio. Amigos organizaram a vaquinha para eles recomeçarem.",
+      "raised": 16318,
+      "goal": 100000,
+      "recurring": false,
+      "supporters": 80,
+      "featured": false
+    },
+    {
+      "id": "fernando-perdeu-a-casa-num-incendio",
+      "title": "Fernando perdeu a casa num incêndio",
+      "organizer": "Caio Pacheco",
+      "location": "",
+      "category": "emergencias",
+      "tags": [
+        "emergencias",
+        "moradia"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/fernando-perdeu-a-casa-num-incendio",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432359/1793725481.874.jpg",
+      "description": "O fogo levou móveis, documentos e o computador de trabalho do Fernando. A ajuda é para reconstruir a casa e o sustento.",
+      "raised": 1655,
+      "goal": 10000,
+      "recurring": false,
+      "supporters": 18,
+      "featured": false
+    },
+    {
+      "id": "ajude-nossos-estudantes-a-receber-suas-medalhas",
+      "title": "Medalhas da Olimpíada de Inglês para alunos do IFPR",
+      "organizer": "Patricia Ramos",
+      "location": "Foz do Iguaçu, PR",
+      "category": "educacao",
+      "tags": [
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-nossos-estudantes-a-receber-suas-medalhas-da-olimpiada-brasileira-de-lingua-inglesa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6433138/1793747921.77.jpg",
+      "description": "Estudantes do IFPR foram premiados na Olimpíada Brasileira de Língua Inglesa e precisam de ajuda para receber as medalhas.",
+      "raised": 1051,
+      "goal": 1180,
+      "recurring": false,
+      "supporters": 20,
+      "featured": false
+    },
+    {
+      "id": "ajuda-de-custos-para-participacao-da-equipe-de-r",
+      "title": "Robótica de Cascavel na Feira Internacional de Ciências",
+      "organizer": "Prof. TiBio",
+      "location": "Cascavel, PR",
+      "category": "educacao",
+      "tags": [
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-de-custos-para-participacao-da-equipe-de-robotica-na-feira-internacional-de-ciencias-2026",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6355830/1790264400.824.jpg",
+      "description": "Premiadas no Agrinho, as equipes de robótica do colégio foram selecionadas para uma feira internacional de ciências.",
+      "raised": 1436.9,
+      "goal": 2500,
+      "recurring": false,
+      "supporters": 24,
+      "featured": false
+    },
+    {
+      "id": "rumo-ao-nacional-star-space",
+      "title": "Star Space rumo ao Nacional de Robótica",
+      "organizer": "Equipe Star Space",
+      "location": "Paulista, PE",
+      "category": "educacao",
+      "tags": [
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/rumo-ao-nacional-star-space",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6412627/1792968828.034.jpg",
+      "description": "Uma equipe de robótica de garagem, formada por alunos de várias escolas, quer competir no campeonato nacional.",
+      "raised": 646,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 10,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-gepic-a-continuar-fazendo-historia",
+      "title": "Ajude o cursinho GEPIC a continuar fazendo história",
+      "organizer": "Rodrigo Milleo",
+      "location": "",
+      "category": "educacao",
+      "tags": [
+        "educacao",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-gepic-a-continuar-fazendo-historia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6430941/1793663423.712.jpg",
+      "description": "O cursinho pré-vestibular comunitário foi furtado e perdeu projetores e equipamentos. A doação ajuda a repor tudo.",
+      "raised": 1371.2,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 29,
+      "featured": false
+    },
+    {
+      "id": "me-manda-pra-turquia",
+      "title": "Uma jovem baiana na Conferência do Clima da ONU",
+      "organizer": "Keylane Oliveira",
+      "location": "Bahia",
+      "category": "educacao",
+      "tags": [
+        "educacao",
+        "meioambiente",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/me-manda-pra-turquia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6389883/1793373064.633.jpg",
+      "description": "Keylane, de 19 anos, vai levar a voz da juventude de comunidades tradicionais da Bahia para a conferência do clima da ONU.",
+      "raised": 4950,
+      "goal": 9000,
+      "recurring": false,
+      "supporters": 90,
+      "featured": false
+    },
+    {
+      "id": "joao-e-maria-no-art-in-vento",
+      "title": "João e Maria no festival Art in Vento",
+      "organizer": "Trupe Arteira de Teatro",
+      "location": "Pelotas, RS",
+      "category": "arte",
+      "tags": [
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/joao-e-maria-no-art-in-vento",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422703/1793341491.396.jpg",
+      "description": "A Trupe Arteira foi selecionada para a mostra competitiva do festival com o musical João e Maria.",
+      "raised": 1020,
+      "goal": 2000,
+      "recurring": false,
+      "supporters": 17,
+      "featured": false
+    },
+    {
+      "id": "uma-oportunidade-internacional-violinista-brasil",
+      "title": "De Niterói a Berlim: um violinista na Filarmônica",
+      "organizer": "Rafael Almeida",
+      "location": "São Gonçalo, RJ",
+      "category": "arte",
+      "tags": [
+        "arte",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/uma-oportunidade-internacional-violinista-brasileiro-na-filarmonica-de-berlim",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6412929/1792982939.585.jpg",
+      "description": "Rafael começou no violino num projeto social de Niterói e agora tem a chance de estudar com a Filarmônica de Berlim.",
+      "raised": 3390,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 40,
+      "featured": false
+    },
+    {
+      "id": "apoie-a-serie-de-recitais-de-piano-do-ccla",
+      "title": "Série de recitais de piano do CCLA",
+      "organizer": "Centro de Ciências, Letras e Artes",
+      "location": "Campinas, SP",
+      "category": "arte",
+      "tags": [
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/apoie-a-serie-de-recitais-de-piano-do-ccla",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6426257/1793452648.104.jpg",
+      "description": "O centro cultural de Campinas quer restaurar seu piano e manter uma série de recitais abertos ao público.",
+      "raised": 850,
+      "goal": 50000,
+      "recurring": false,
+      "supporters": 8,
+      "featured": false
+    },
+    {
+      "id": "ajude-um-musico-a-comprar-um-novo-instrumento-ap",
+      "title": "Ajude um músico que teve o saxofone roubado",
+      "organizer": "Amigos de Roberto Bahal",
+      "location": "Rio de Janeiro, RJ",
+      "category": "arte",
+      "tags": [
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-um-musico-a-comprar-um-novo-instrumento-apos-ter-sido-roubado",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6416408/1793106508.591.jpg",
+      "description": "O saxofonista Roberto Bahal foi assaltado na porta de casa e precisa de um novo instrumento para voltar aos palcos.",
+      "raised": 11344.02,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 85,
+      "featured": false
     },
     {
       "id": "instituto-tear",
@@ -80,7 +1003,105 @@
       "goal": 10000,
       "recurring": true,
       "supporters": 15,
-      "featured": true
+      "featured": false
+    },
+    {
+      "id": "guincho-da-rose",
+      "title": "Um guincho de transferência para a Rose",
+      "organizer": "Rosaelene",
+      "location": "Potirendaba, SP",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/guincho-da-rose",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6397064/1793640371.628.jpg",
+      "description": "Cadeirante desde bebê, Rose precisa de um guincho para se mover com segurança e mais independência dentro de casa.",
+      "raised": 5400.08,
+      "goal": 12500,
+      "recurring": false,
+      "supporters": 56,
+      "featured": false
+    },
+    {
+      "id": "protese-mauricio",
+      "title": "Uma prótese para o Mauricio",
+      "organizer": "Mayna Fernandes Rocha",
+      "location": "",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/protese-mauricio",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6397494/1792279493.406.jpg",
+      "description": "Depois de uma amputação, Mauricio busca uma prótese para ganhar mobilidade, autonomia e qualidade de vida.",
+      "raised": 33985.98,
+      "goal": 90000,
+      "recurring": false,
+      "supporters": 245,
+      "featured": false
+    },
+    {
+      "id": "vamos-ajuda-a-manuela-para-ter-sua-cadeira",
+      "title": "Uma cadeira de rodas para a Manuela",
+      "organizer": "Luciene, mãe da Manuela",
+      "location": "São Paulo, SP",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vamos-ajuda-a-manuela-para-ter-sua-cadeira",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6400791/1792189142.812.jpg",
+      "description": "Manuela tem 11 anos e paralisia cerebral. A família arrecada para uma cadeira adaptada ao tamanho dela.",
+      "raised": 2355,
+      "goal": 8000,
+      "recurring": false,
+      "supporters": 50,
+      "featured": false
+    },
+    {
+      "id": "enxergando-o-futuro-lucas-da-silva-zago",
+      "title": "Enxergando o futuro",
+      "organizer": "Lucas da Silva Zago",
+      "location": "",
+      "category": "inclusao",
+      "tags": [
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/enxergando-o-futuro-lucas-da-silva-zago",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6407764/edfbbdbf-8d74-4e9e-99c7-45ae550cb449.jpeg",
+      "description": "Com deficiência visual, Lucas quer comprar óculos inteligentes que leem textos e descrevem o ambiente ao redor.",
+      "raised": 1485.08,
+      "goal": 4300,
+      "recurring": false,
+      "supporters": 27,
+      "featured": false
+    },
+    {
+      "id": "ajuda-comprar-cadeira-escaladora",
+      "title": "Uma cadeira escaladora para a Dianna sair de casa",
+      "organizer": "Patricia Moreira da Silva",
+      "location": "Salvador, BA",
+      "category": "inclusao",
+      "tags": [
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-comprar-cadeira-escaladora",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6387937/1791854897.204.jpg",
+      "description": "Sem elevador no prédio, Dianna depende de uma cadeira de rodas que sobe e desce escadas para ver o mundo lá fora.",
+      "raised": 4970.17,
+      "goal": 80000,
+      "recurring": false,
+      "supporters": 29,
+      "featured": false
     },
     {
       "id": "projeto-17",
@@ -100,28 +1121,514 @@
       "goal": 15000,
       "recurring": false,
       "supporters": 3,
-      "featured": true
+      "featured": false
     },
     {
-      "id": "alem-do-cancer-2026",
-      "title": "Vakinha Além do Câncer 2026",
-      "organizer": "Instituto Vakinha",
-      "location": "",
-      "category": "cancer",
+      "id": "ajude-a-recuperar-o-espaco-de-quem-mais-precisa",
+      "title": "Ajude o Lar do Caminho a superar as tempestades",
+      "organizer": "Lar do Caminho",
+      "location": "Juquitiba, SP",
+      "category": "comunidades",
       "tags": [
-        "cancer",
-        "criancas",
+        "comunidades",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-recuperar-o-espaco-de-quem-mais-precisa-o-lar",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6376982/1791329031.399.jpg",
+      "description": "Atingido por tempestades, o Lar do Caminho arrecada para recuperar o espaço onde atende pessoas em vulnerabilidade.",
+      "raised": 30673.01,
+      "goal": 80000,
+      "recurring": false,
+      "supporters": 86,
+      "featured": false
+    },
+    {
+      "id": "ajuda-para-construi-uma-biblioteca-comunitaria",
+      "title": "Uma biblioteca comunitária",
+      "organizer": "William, da WDGames",
+      "location": "",
+      "category": "comunidades",
+      "tags": [
+        "comunidades",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-construi-uma-biblioteca-comunitaria",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6274343/ECDF290E-ED3B-4EC1-A70C-D754499085C5.jpg",
+      "description": "William quer abrir uma biblioteca gratuita no bairro, unindo leitura e games para atrair crianças e jovens.",
+      "raised": 28637.79,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 407,
+      "featured": false
+    },
+    {
+      "id": "9-edicao-do-republica-do-rock",
+      "title": "9ª edição do República do Rock",
+      "organizer": "Moradores do bairro República",
+      "location": "Vitória, ES",
+      "category": "comunidades",
+      "tags": [
+        "comunidades",
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/9-edicao-do-republica-do-rock",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5985962/6f59abc5-0f5a-4916-8779-18eb8b76ca3e.jpeg",
+      "description": "Um festival criado pelos próprios moradores do bairro, que celebra a amizade com música e cultura.",
+      "raised": 8292,
+      "goal": 14000,
+      "recurring": false,
+      "supporters": 62,
+      "featured": false
+    },
+    {
+      "id": "enxoval-para-gestantes-necessitadas",
+      "title": "Enxoval para gestantes do SUS",
+      "organizer": "Luiza Drumond Barbosa",
+      "location": "",
+      "category": "comunidades",
+      "tags": [
+        "comunidades",
+        "saude",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/enxoval-para-gestantes-necessitadas",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6433959/1793785171.683.jpg",
+      "description": "Kits de enxoval e pós-parto para gestantes do SUS que não têm condições de comprar o básico para o bebê.",
+      "raised": 1480,
+      "goal": 5000,
+      "recurring": false,
+      "supporters": 12,
+      "featured": false
+    },
+    {
+      "id": "favela-da-paz",
+      "title": "Instituto Favela da Paz",
+      "organizer": "Instituto Favela da Paz",
+      "location": "São Paulo, SP",
+      "category": "comunidades",
+      "tags": [
+        "comunidades",
+        "arte",
+        "criancas"
+      ],
+      "platform": "Benfeitoria",
+      "url": "https://benfeitoria.com/projeto/faveladapaz",
+      "image": "https://usersfiles.nyc3.digitaloceanspaces.com/prod/projects_images/8452/cover_20180405130024.jpg",
+      "description": "No Jardim Nakamura, o instituto incuba projetos de arte, cultura e sustentabilidade feitos pela própria comunidade.",
+      "raised": 270,
+      "goal": 8000,
+      "recurring": true,
+      "supporters": 6,
+      "featured": false
+    },
+    {
+      "id": "ajuda-para-reconstruir-a-casa-de-deusiane-e-fabi",
+      "title": "Reconstruir a casa de Deusiane e Fabiano",
+      "organizer": "Matheus Siqueira",
+      "location": "Silva Jardim, RJ",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-reconstruir-a-casa-de-deusiane-e-fabiano",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6429758/642da103-2aa7-424e-bd28-7a663359cbf1.jpeg",
+      "description": "O casal perdeu tudo quando a casa pegou fogo. Amigos organizam a ajuda para eles voltarem a ter um lar.",
+      "raised": 4579.5,
+      "goal": 30000,
+      "recurring": false,
+      "supporters": 58,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-ricardo-da-gabizo-a-conquistar-seu-lar",
+      "title": "Ajude o Ricardo a conquistar seu lar",
+      "organizer": "Gleice",
+      "location": "Rio de Janeiro, RJ",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-ricardo-da-gabizo-a-conquistar-seu-lar",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6425815/1793414843.512.jpg",
+      "description": "Depois de viver nas ruas, Ricardo reconstruiu a vida e luta para não perder a casa que conquistou.",
+      "raised": 5310.46,
+      "goal": 64800,
+      "recurring": false,
+      "supporters": 14,
+      "featured": false
+    },
+    {
+      "id": "ajude-minha-familia-a-recomecar-apos-perdermos-t",
+      "title": "Família de Rogério recomeça após incêndio",
+      "organizer": "Rogério Donizete Rodrigues",
+      "location": "São Paulo, SP",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "emergencias"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-minha-familia-a-recomecar-apos-perdermos-tudo-em-um-incendio",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6428668/A85C7272-EF6B-4ED6-819A-1591B41D2096.png",
+      "description": "O tapeceiro Rogério e a família ficaram só com a roupa do corpo depois que a casa pegou fogo.",
+      "raised": 4826.13,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 64,
+      "featured": false
+    },
+    {
+      "id": "ajude-fatima-e-adao-a-salvar-seu-lar-e-enfrentar",
+      "title": "Ajude Fátima e Adão a salvar seu lar",
+      "organizer": "Centro Espírita Mansão da Esperança",
+      "location": "",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "saude",
+        "idosos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-fatima-e-adao-a-salvar-seu-lar-e-enfrentar-os-desafios-da-saude",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6399105/1792367630.597.jpg",
+      "description": "O casal enfrenta problemas sérios de saúde e corria o risco de perder a casa. A campanha está perto da meta.",
+      "raised": 58551.84,
+      "goal": 60000,
+      "recurring": false,
+      "supporters": 412,
+      "featured": false
+    },
+    {
+      "id": "construcao-de-banheiro-para-catia",
+      "title": "Um banheiro para a casa da Cátia",
+      "organizer": "Miriam Barros",
+      "location": "",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/construcao-de-banheiro-para-catia",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6415194/1793051845.622.jpg",
+      "description": "Cátia faz faxina em casas com vários banheiros, mas na dela o banheiro fica do lado de fora. Vamos mudar isso?",
+      "raised": 2935,
+      "goal": 5400,
+      "recurring": false,
+      "supporters": 37,
+      "featured": false
+    },
+    {
+      "id": "contribuicao-jansustent-ecoatlas",
+      "title": "Projeto JANSUSTENT rumo a Brasília",
+      "organizer": "Vagna Maria Monteiro Souza",
+      "location": "Jandaíra, BA",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/contribuicao-jansustent-ecoatlas",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6399851/F18AE3ED-4851-492B-9F39-99EC679E64D8.png",
+      "description": "Dois estudantes de escola pública do interior da Bahia levam seu projeto de sustentabilidade para uma feira em Brasília.",
+      "raised": 1165,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 22,
+      "featured": false
+    },
+    {
+      "id": "rumo-a-minnesota-2027",
+      "title": "Pesquisa sobre o Cerrado nos Estados Unidos",
+      "organizer": "Gabriel Marins",
+      "location": "Brasília, DF",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/rumo-a-minnesota-2027",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6391363/15bef899-45ac-4b34-9ed8-2002e8d4cdbd.png",
+      "description": "Doutorando em Ecologia, Gabriel estuda o controle natural de pragas na soja do Cerrado e foi aprovado para pesquisar em Minnesota.",
+      "raised": 3995,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 20,
+      "featured": false
+    },
+    {
+      "id": "rumo-ao-chile-apoie-a-helo-a-contar-a-sua-trajet",
+      "title": "Helô leva a agroecologia popular ao Chile",
+      "organizer": "Heloyane Ferreira Viana",
+      "location": "Bom Jesus do Itabapoana, RJ",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "educacao",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/rumo-ao-chile-apoie-a-helo-a-contar-a-sua-trajetoria-de-educacao-popular-do-coletivo-colhendo-memorias-para-o-mundo",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6362589/087D2C28-0377-4FF5-90DF-24E61F586B58.jpg",
+      "description": "Educadora e mestranda em agroecologia, Helô vai apresentar o trabalho do coletivo Colhendo Memórias num encontro internacional.",
+      "raised": 4700.77,
+      "goal": 5000,
+      "recurring": false,
+      "supporters": 49,
+      "featured": false
+    },
+    {
+      "id": "todos-pelo-gorilas",
+      "title": "Todos pelo Gorilas Bike Park",
+      "organizer": "Bruna Schiavon",
+      "location": "Americana, SP",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "esporte",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/todos-pelo-gorilas",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422511/1793300648.535.jpg",
+      "description": "Ciclistas transformaram uma área abandonada cheia de entulho num parque de bike. Agora precisam manter o espaço vivo.",
+      "raised": 100,
+      "goal": 10000,
+      "recurring": false,
+      "supporters": 4,
+      "featured": false
+    },
+    {
+      "id": "uma-atleta-de-9-anos-rumo-a-selecao-brasileira",
+      "title": "Júlia Akemi rumo ao Sul-Americano de Badminton",
+      "organizer": "Janete Godoi",
+      "location": "Jaraguá do Sul, SC",
+      "category": "esporte",
+      "tags": [
+        "esporte",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/uma-atleta-de-9-anos-rumo-a-selecao-brasileira",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6426259/1793453303.185.jpg",
+      "description": "Aos 9 anos, Júlia foi convocada para o Sul-Americano de Badminton e precisa de apoio para a viagem.",
+      "raised": 1195,
+      "goal": 10000,
+      "recurring": false,
+      "supporters": 15,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-campeao-brasileiro-kaio-vinicius-a-conqu",
+      "title": "Kaio Vinícius no Mundial de Muay Thai",
+      "organizer": "Renata Silva Rocha",
+      "location": "São Paulo, SP",
+      "category": "esporte",
+      "tags": [
+        "esporte",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-campeao-brasileiro-kaio-vinicius-a-conquistar-o-mundial-de-muay-thai",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6380575/1791601227.398.jpg",
+      "description": "Campeão brasileiro vindo de uma comunidade de São Paulo, Kaio vai representar o país no mundial na Tailândia.",
+      "raised": 1825,
+      "goal": 22000,
+      "recurring": false,
+      "supporters": 28,
+      "featured": false
+    },
+    {
+      "id": "capixaba-va-a-de-natal-2026",
+      "title": "Capixaba Va'a: Natal 2026",
+      "organizer": "Arthur Heineck",
+      "location": "Espírito Santo",
+      "category": "esporte",
+      "tags": [
+        "esporte",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/capixaba-va-a-de-natal-2026",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6430030/1793636081.785.jpg",
+      "description": "O grupo de canoa havaiana organiza uma ação de Natal que junta esporte, amizade e solidariedade.",
+      "raised": 1280,
+      "goal": 3800,
+      "recurring": false,
+      "supporters": 12,
+      "featured": false
+    },
+    {
+      "id": "vittinho-no-mundial-de-jiu-jitsu-de-abu-dhabi-20",
+      "title": "Vittinho no Europeu de Jiu-Jitsu 2027",
+      "organizer": "Vittinho BJJ",
+      "location": "",
+      "category": "esporte",
+      "tags": [
+        "esporte",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vittinho-no-mundial-de-jiu-jitsu-de-abu-dhabi-2026",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6235737/1791239477.835.jpg",
+      "description": "Aos 16 anos, Vittinho saiu de uma comunidade para os maiores campeonatos de jiu-jitsu. A próxima parada é Portugal.",
+      "raised": 51685.71,
+      "goal": 25000,
+      "recurring": false,
+      "supporters": 869,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-papai-noel-a-aposentar",
+      "title": "Ajude o Papai Noel a se aposentar",
+      "organizer": "Sonia",
+      "location": "Itanhaém, SP",
+      "category": "idosos",
+      "tags": [
+        "idosos",
+        "sonhos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-papai-noel-a-aposentar",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432114/1793721403.929.jpg",
+      "description": "Seu José passou anos sendo o Papai Noel da cidade. Faltam R$ 7 mil para ele conseguir se aposentar.",
+      "raised": 1175,
+      "goal": 7000,
+      "recurring": false,
+      "supporters": 8,
+      "featured": false
+    },
+    {
+      "id": "ajude-lar-de-idosos-leao-de-juda-lar-de-idosos-l",
+      "title": "Lar de Idosos Leão de Judá",
+      "organizer": "Lar de Idosos Leão de Judá",
+      "location": "",
+      "category": "idosos",
+      "tags": [
+        "idosos",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-lar-de-idosos-leao-de-juda-lar-de-idosos-leao-de-juda",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6431279/1793671620.135.jpg",
+      "description": "O lar cuida de idosos sem família presente e precisa de ajuda com alimentação, remédios e manutenção.",
+      "raised": 121.49,
+      "goal": 50000,
+      "recurring": false,
+      "supporters": 5,
+      "featured": false
+    },
+    {
+      "id": "vamos-ajudar-o-sr-paulo-a-conquistar-sua-bicicle",
+      "title": "Uma bike elétrica para o Sr. Paulo",
+      "organizer": "Tiago Marques",
+      "location": "Rio de Janeiro, RJ",
+      "category": "idosos",
+      "tags": [
+        "idosos",
+        "esporte",
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vamos-ajudar-o-sr-paulo-a-conquistar-sua-bicicleta-eletrica",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6381984/1791560364.948.jpg",
+      "description": "Aos 72 anos, Sr. Paulo superou um acidente grave e quer uma bicicleta elétrica para seguir pedalando com segurança.",
+      "raised": 1150,
+      "goal": 25000,
+      "recurring": false,
+      "supporters": 5,
+      "featured": false
+    },
+    {
+      "id": "ajuda-para-sobreviver-cassandra-carla-silva-cast",
+      "title": "Ajuda para Seu José, de 69 anos",
+      "organizer": "Cassy",
+      "location": "Manaus, AM",
+      "category": "idosos",
+      "tags": [
+        "idosos",
         "saude"
       ],
       "platform": "Vakinha",
-      "url": "https://www.vakinha.com.br/vaquinha/vakinha-alem-do-cancer-2026",
-      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6269786/1786734283.973.jpg?ims=1200x630",
-      "description": "Transporte, hospedagem e alimentação para famílias de crianças em tratamento contra o câncer, com repasse à Casa Ronald McDonald.",
-      "raised": 55.01,
-      "goal": 400000,
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-sobreviver-cassandra-carla-silva-castro",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6384999/1791724655.495.jpg",
+      "description": "Aposentado com vários problemas de saúde, Seu José não consegue pagar remédios e o básico com o que recebe.",
+      "raised": 2152.08,
+      "goal": 7000,
       "recurring": false,
-      "supporters": 4,
-      "featured": true
+      "supporters": 23,
+      "featured": false
+    },
+    {
+      "id": "ajude-o-biel-souza",
+      "title": "Ajude o Papai Noel das comunidades",
+      "organizer": "Gabriel Souza",
+      "location": "Florianópolis, SC",
+      "category": "sonhos",
+      "tags": [
+        "sonhos",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-biel-souza",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6432354/1793725965.76.jpg",
+      "description": "Todo ano Biel se veste de Papai Noel para levar alegria a crianças de comunidades. Agora é ele quem precisa de uma força.",
+      "raised": 210,
+      "goal": 7000,
+      "recurring": false,
+      "supporters": 6,
+      "featured": false
+    },
+    {
+      "id": "ajude-barbara-a-ingressar-na-escola-do-teatro-bo",
+      "title": "Bárbara na Escola do Teatro Bolshoi",
+      "organizer": "Talita",
+      "location": "",
+      "category": "sonhos",
+      "tags": [
+        "sonhos",
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-barbara-a-ingressar-na-escola-do-teatro-bolshoi-no-brasil",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6412358/1792955233.432.jpg",
+      "description": "Aprovada na Escola do Teatro Bolshoi, Bárbara precisa de ajuda para custear a mudança e os primeiros meses de estudo.",
+      "raised": 525,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 7,
+      "featured": false
+    },
+    {
+      "id": "um-passo-ate-paris",
+      "title": "Luiz Guilherme dançando em Paris",
+      "organizer": "Luiz Guilherme Nascimento",
+      "location": "Tubarão, SC",
+      "category": "sonhos",
+      "tags": [
+        "sonhos",
+        "arte",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/um-passo-ate-paris",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6421909/1793288789.434.jpg",
+      "description": "Aos 12 anos, Luiz Guilherme dança num grupo competitivo e foi convidado para um festival em Paris.",
+      "raised": 345,
+      "goal": 50000,
+      "recurring": false,
+      "supporters": 6,
+      "featured": false
     }
   ]
 }
