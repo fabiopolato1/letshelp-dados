@@ -1492,6 +1492,125 @@
       "recurring": false,
       "supporters": 6,
       "featured": false
+    },
+    {
+      "id": "familia-silva-rafaela-mendes",
+      "title": "Uma ajuda para a família Silva",
+      "organizer": "Rafaela Mendes",
+      "location": "",
+      "category": "quasela",
+      "tags": [
+        "criancas",
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/familia-silva-rafaela-mendes",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6431702/1793707407.054.jpg",
+      "description": "Luana e Vitor têm microcefalia e o pai ficou meses sem trabalhar depois de um acidente na obra. A vaquinha ajuda a família a se reerguer.",
+      "raised": 8550,
+      "goal": 9000,
+      "recurring": false,
+      "supporters": 15,
+      "featured": false
+    },
+    {
+      "id": "cadeira-para-isa",
+      "title": "Cadeira para Isa",
+      "organizer": "Willian da Bondade",
+      "location": "",
+      "category": "quasela",
+      "tags": [
+        "inclusao",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/cadeira-para-isa",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6027058/1774480162.272.jpg",
+      "description": "A Isa ficou tetraplégica aos 3 anos depois de um acidente de carro. A meta é uma cadeira que devolva a ela mais autonomia.",
+      "raised": 262351.11,
+      "goal": 280000,
+      "recurring": false,
+      "supporters": 4813,
+      "featured": false
+    },
+    {
+      "id": "vaquinha-da-dona-cida-thamires-miranda-dos-santos-franca",
+      "title": "Remédio para a dona Cida",
+      "organizer": "Thamires",
+      "location": "",
+      "category": "quasela",
+      "tags": [
+        "saude",
+        "idosos"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/vaquinha-da-dona-cida-thamires-miranda-dos-santos-franca",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6415509/1793059514.335.jpg",
+      "description": "A dona Cida ficou sem a medicação de uso diário enquanto espera a consulta pelo SUS. Faltam poucos reais para comprar o remédio.",
+      "raised": 770,
+      "goal": 800,
+      "recurring": false,
+      "supporters": 20,
+      "featured": false
+    },
+    {
+      "id": "oculos-bernardo",
+      "title": "Óculos novos para o Bernardo",
+      "organizer": "Miriam Aparecida da Silva Francisco",
+      "location": "",
+      "category": "quasela",
+      "tags": [
+        "criancas",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/oculos-bernardo",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6403696/1792580913.3.jpg",
+      "description": "O Bernardo tem grau alto e a armação quebrou. A vaquinha paga exame, lentes resistentes e armação nova para ele seguir estudando.",
+      "raised": 944,
+      "goal": 947,
+      "recurring": false,
+      "supporters": 24,
+      "featured": false
+    },
+    {
+      "id": "me-ajude-a-voltar-a-andar-e-recuperar-minha-saude",
+      "title": "Aline quer voltar a andar",
+      "organizer": "Aline Machado",
+      "location": "",
+      "category": "quasela",
+      "tags": [
+        "saude",
+        "inclusao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/me-ajude-a-voltar-a-andar-e-recuperar-minha-saude",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6424590/1793376990.474.jpg",
+      "description": "Depois de 26 dias em coma e meses de internação, a Aline precisa de reabilitação para recuperar os movimentos e voltar a andar.",
+      "raised": 5445.5,
+      "goal": 6000,
+      "recurring": false,
+      "supporters": 98,
+      "featured": false
+    },
+    {
+      "id": "ajuda-urgente-para-salvar-o-jumentinho-de-jericoacoara",
+      "title": "Ajude os jumentinhos de Jericoacoara",
+      "organizer": "Monique Rocha",
+      "location": "Jijoca de Jericoacoara, CE",
+      "category": "quasela",
+      "tags": [
+        "animais"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-urgente-para-salvar-o-jumentinho-de-jericoacoara",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6080157/388F896E-99B9-463A-88A4-C109AEE86775.jpg",
+      "description": "Vários jumentinhos da região precisam de ração, cuidados e atendimento veterinário. A Monique organiza a ajuda a esses animais.",
+      "raised": 6671.01,
+      "goal": 7000,
+      "recurring": false,
+      "supporters": 120,
+      "featured": false
     }
   ]
 }
