@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "causes": [
     {
       "id": "ajude-me-na-minha-luta-contra-a-epidermolise-bol",
@@ -1693,6 +1693,320 @@
       "recurring": false,
       "featured": false,
       "pix": ""
+    },
+    {
+      "id": "juntos-pela-cura-do-erick",
+      "title": "Juntos pela cura do Erick",
+      "organizer": "Mariane",
+      "location": "Penápolis, SP",
+      "category": "cancer",
+      "tags": [
+        "cancer",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/juntos-pela-cura-do-erick",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6410085/1793450471.633.jpg",
+      "description": "O Erick enfrenta um linfoma de Hodgkin que não respondeu à quimioterapia. Ele precisa com urgência de um remédio de alto custo que o SUS não oferece.",
+      "raised": 68945.87,
+      "goal": 220000,
+      "recurring": false,
+      "supporters": 1052,
+      "featured": false,
+      "pix": "6410085@vakinha.com.br"
+    },
+    {
+      "id": "ajude-a-eva-a-respirar-sozinha-tratamento-completo",
+      "title": "Ajude a Eva a respirar sozinha",
+      "organizer": "Daniela da Silva Honorato",
+      "location": "São Paulo, SP",
+      "category": "criancas",
+      "tags": [
+        "criancas",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-a-eva-a-respirar-sozinha-tratamento-completo",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/5995718/1773172931.005.jpg",
+      "description": "A Eva, de 2 anos, passou 180 dias na UTI e hoje vive com traqueostomia. O tratamento busca fazer ela respirar sem aparelhos e ganhar voz.",
+      "raised": 52317.34,
+      "goal": 65500,
+      "recurring": false,
+      "supporters": 549,
+      "featured": false,
+      "pix": "5995718@vakinha.com.br"
+    },
+    {
+      "id": "juntos-pelos-passos-do-miguel",
+      "title": "Juntos pelos passos do Miguel",
+      "organizer": "Família do Miguel",
+      "location": "Chalé, MG",
+      "category": "inclusao",
+      "tags": [
+        "inclusao",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/juntos-pelos-passos-do-miguel",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6314894/1788473244.79.jpg",
+      "description": "O Miguel, de 4 anos, tem paralisia cerebral e anda com apoio. A vaquinha banca as terapias que ajudam ele a conquistar mais autonomia.",
+      "raised": 53882.78,
+      "goal": 130000,
+      "recurring": false,
+      "supporters": 613,
+      "featured": false,
+      "pix": "6314894@vakinha.com.br"
+    },
+    {
+      "id": "ajude-dona-fatima-a-realizar-cirurgia-no-ombro",
+      "title": "Cirurgia no ombro para a dona Fátima",
+      "organizer": "Catarina Holanda de Castro Batista",
+      "location": "Recife, PE",
+      "category": "idosos",
+      "tags": [
+        "idosos",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-dona-fatima-a-realizar-cirurgia-no-ombro",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6427397/1793495903.771.jpg",
+      "description": "Dona Fátima, de 73 anos, perdeu a força no braço e precisa de uma cirurgia urgente no ombro para voltar à rotina sem dor.",
+      "raised": 10000,
+      "goal": 20000,
+      "recurring": false,
+      "supporters": 153,
+      "featured": false,
+      "pix": "6427397@vakinha.com.br"
+    },
+    {
+      "id": "cirurgia-no-coracao-tratamento-de-infeccao-lucas-teodoro",
+      "title": "Cirurgia no coração para o Lucas",
+      "organizer": "Fernanda Teodoro",
+      "location": "Goiânia, GO",
+      "category": "saude",
+      "tags": [
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/cirurgia-no-coracao-tratamento-de-infeccao-lucas-teodoro",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6422888/1793310380.006.jpg",
+      "description": "O Lucas está na UTI e vai passar por uma cirurgia no coração para retirar um tumor, além de tratar uma infecção. O tratamento é de alto custo.",
+      "raised": 159539.51,
+      "goal": 250000,
+      "recurring": false,
+      "supporters": 2399,
+      "featured": false,
+      "pix": "6422888@vakinha.com.br"
+    },
+    {
+      "id": "casa-dos-theodoro-s",
+      "title": "Uma casa própria para mais de 50 animais resgatados",
+      "organizer": "Juliana Herculano",
+      "location": "Nova Iguaçu, RJ",
+      "category": "animais",
+      "tags": [
+        "animais",
+        "moradia"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/casa-dos-theodoro-s",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6263460/b0805435-5f82-4d8b-a18a-70f0387b29ed.jpeg",
+      "description": "A protetora Juliana cuida de mais de 50 animais tirados de maus-tratos. A meta é sair do aluguel e garantir um lar seguro para todos eles.",
+      "raised": 54636.25,
+      "goal": 370000,
+      "recurring": false,
+      "supporters": 1116,
+      "featured": false,
+      "pix": "6263460@vakinha.com.br"
+    },
+    {
+      "id": "ajuda-para-comprar-o-equipamento-fotografico",
+      "title": "Equipamento para o Luan viver da fotografia",
+      "organizer": "Luan Gomes Cezário",
+      "location": "Engenheiro Paulo de Frontin, RJ",
+      "category": "sonhos",
+      "tags": [
+        "sonhos",
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajuda-para-comprar-o-equipamento-fotografico",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6344256/1789731947.498.jpg",
+      "description": "O Luan, de 20 anos, fotografa desde criança com equipamento emprestado. A vaquinha compra a câmera para ele transformar o sonho em profissão.",
+      "raised": 3619.94,
+      "goal": 10000,
+      "recurring": false,
+      "supporters": 41,
+      "featured": false,
+      "pix": "6344256@vakinha.com.br"
+    },
+    {
+      "id": "todos-pelo-adriano-silvane-nascimento-da-silva",
+      "title": "Todos pelo Adriano",
+      "organizer": "Silvane",
+      "location": "Seberi, RS",
+      "category": "emergencias",
+      "tags": [
+        "emergencias",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/todos-pelo-adriano-silvane-nascimento-da-silva",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6428734/1793567745.607.jpg",
+      "description": "O Adriano fraturou o quadril num acidente de moto na zona rural e espera uma cirurgia. A família arrecada para os custos do tratamento.",
+      "raised": 3280,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 57,
+      "featured": false,
+      "pix": "6428734@vakinha.com.br"
+    },
+    {
+      "id": "ajude-nos-a-preparar-um-lar-seguro-para-meus-irmaos",
+      "title": "Um lar para os irmãos da Yasmin recomeçarem",
+      "organizer": "Yasmin Melanie de Oliveira Avelar",
+      "location": "Chapecó, SC",
+      "category": "moradia",
+      "tags": [
+        "moradia",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-nos-a-preparar-um-lar-seguro-para-meus-irmaos",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6420680/1793499008.816.jpg",
+      "description": "Depois de perder a mãe, a Yasmin vai acolher os dois irmãos mais novos em Chapecó. A vaquinha prepara a casa para eles recomeçarem.",
+      "raised": 13131.04,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 131,
+      "featured": false,
+      "pix": "6420680@vakinha.com.br"
+    },
+    {
+      "id": "deborah-em-santa-catarina-jhenniffer-dilecta-goncalves-dias",
+      "title": "Deborah no campeonato de judô",
+      "organizer": "Jhenniffer Dilecta Gonçalves Dias",
+      "location": "Americana, SP",
+      "category": "esporte",
+      "tags": [
+        "esporte",
+        "criancas"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/deborah-em-santa-catarina-jhenniffer-dilecta-goncalves-dias",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6421552/1793278287.045.jpg",
+      "description": "A Deborah foi chamada para um campeonato de judô em Santa Catarina nos dias 13 e 14 de novembro. Faltam recursos para a viagem.",
+      "raised": 1349,
+      "goal": 1800,
+      "recurring": false,
+      "supporters": 17,
+      "featured": false,
+      "pix": "6421552@vakinha.com.br"
+    },
+    {
+      "id": "ajude-o-projeto-seva-combu-a-arrecadar-cestas-basicas-para-a-escola-municipal-da-ilha-do-combu",
+      "title": "Cestas básicas para famílias da Ilha do Combu",
+      "organizer": "Projeto Seva Combu",
+      "location": "Belém, PA",
+      "category": "fome",
+      "tags": [
+        "fome",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/ajude-o-projeto-seva-combu-a-arrecadar-cestas-basicas-para-a-escola-municipal-da-ilha-do-combu",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6325868/1788966439.248.jpg",
+      "description": "O Seva Combu compra cerca de 80 cestas básicas para as famílias da escola municipal da Ilha do Combu, em Belém.",
+      "raised": 3890,
+      "goal": 6000,
+      "recurring": false,
+      "supporters": 33,
+      "featured": false,
+      "pix": "6325868@vakinha.com.br"
+    },
+    {
+      "id": "teatro-singular-em-festival-internacional",
+      "title": "Teatro Singular num festival em Buenos Aires",
+      "organizer": "Teatro Singular",
+      "location": "Santo André, SP",
+      "category": "arte",
+      "tags": [
+        "arte",
+        "educacao"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/teatro-singular-em-festival-internacional",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6285514/1787496700.359.jpg",
+      "description": "Grupo de teatro estudantil com 37 anos de história, o Teatro Singular foi selecionado para um festival na Argentina e precisa completar as passagens.",
+      "raised": 3010,
+      "goal": 7000,
+      "recurring": false,
+      "supporters": 37,
+      "featured": false,
+      "pix": "6285514@vakinha.com.br"
+    },
+    {
+      "id": "sua-nota-vira-musica",
+      "title": "Sua nota vira música: contrabaixos para a orquestra",
+      "organizer": "Movimento Orquestral Allegro (MOVA)",
+      "location": "",
+      "category": "educacao",
+      "tags": [
+        "educacao",
+        "arte"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/sua-nota-vira-musica",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6203240/1783606630.046.jpg",
+      "description": "Há 7 anos o MOVA ensina música a crianças e jovens como ferramenta de inclusão. A vaquinha compra dois contrabaixos para as orquestras.",
+      "raised": 3000,
+      "goal": 15000,
+      "recurring": false,
+      "supporters": 30,
+      "featured": false,
+      "pix": "6203240@vakinha.com.br"
+    },
+    {
+      "id": "expedicao-a-ilha-de-marajo",
+      "title": "Expedição de saúde à Ilha de Marajó",
+      "organizer": "Projeto Social Travessia",
+      "location": "Marajó, PA",
+      "category": "comunidades",
+      "tags": [
+        "comunidades",
+        "saude"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/expedicao-a-ilha-de-marajo",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6405026/1793396811.195.jpg",
+      "description": "Voluntários do Projeto Travessia levam atendimento de saúde a famílias da Ilha de Marajó, que têm pouco acesso a médicos.",
+      "raised": 2960,
+      "goal": 100000,
+      "recurring": false,
+      "supporters": 25,
+      "featured": false,
+      "pix": "6405026@vakinha.com.br"
+    },
+    {
+      "id": "acao-de-plantio-de-arvores-nativas-no-gama-df",
+      "title": "Plantio de árvores nativas no Gama (DF)",
+      "organizer": "Coletivo Araçá do Cerrado",
+      "location": "Brasília, DF",
+      "category": "meioambiente",
+      "tags": [
+        "meioambiente",
+        "comunidades"
+      ],
+      "platform": "Vakinha",
+      "url": "https://www.vakinha.com.br/vaquinha/acao-de-plantio-de-arvores-nativas-no-gama-df",
+      "image": "https://static.vakinha.com.br/uploads/vakinha/image/6426696/1793471168.104.jpg",
+      "description": "Moradores do Gama se juntaram para plantar árvores nativas do Cerrado e levar mais sombra e verde para a região.",
+      "raised": 225,
+      "goal": 600,
+      "recurring": false,
+      "supporters": 4,
+      "featured": false,
+      "pix": "6426696@vakinha.com.br"
     }
   ]
 }
