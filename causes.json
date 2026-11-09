@@ -1980,6 +1980,27 @@
    "recurring": false,
    "featured": false,
    "pix": ""
+  },
+  {
+   "id": "protese-do-noah-marcos",
+   "title": "Uma prótese para o Marcos voltar a andar",
+   "organizer": "Amanda Lopis (filha)",
+   "location": "Mogi das Cruzes, SP",
+   "category": "inclusao",
+   "tags": [
+    "inclusao",
+    "saude"
+   ],
+   "platform": "Vakinha",
+   "url": "https://www.vakinha.com.br/vaquinha/protese-do-noah-marcos",
+   "image": "https://static.vakinha.com.br/uploads/vakinha/image/6430326/1793646615.593.jpg",
+   "description": "Aos 61 anos, o Marcos perdeu a perna esquerda depois de um grave acidente de moto. A filha arrecada para a prótese e a reabilitação.",
+   "raised": 7420,
+   "goal": 30000,
+   "recurring": false,
+   "supporters": 67,
+   "featured": false,
+   "pix": "6430326@vakinha.com.br"
   }
  ]
 }
